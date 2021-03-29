@@ -1,0 +1,708 @@
+{
+    "r2": [
+        {
+            "ifb-r2-r1-0": {
+                "11:": [
+                    {
+                        "timestamp": "1616942535.731074786",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942535.937773038",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942536.148897226",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942536.372502842",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942536.586733404",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942536.801592059",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942537.007778446",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942537.218602834",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942537.423069675",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942537.627883647",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942537.833347562",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942538.037816202",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942538.253107538",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942538.458770545",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942538.665876071",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942538.872682509",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942539.078366194",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942539.282945207",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942539.493747203",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942539.702617488",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942539.906194799",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942540.110730875",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942540.314736942",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942540.518298474",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942540.732065979",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942540.937142727",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942541.141483578",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942541.344399122",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942541.547393028",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942541.751448332",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942541.961860171",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942542.165366858",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942542.369324919",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942542.574068262",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942542.778699400",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942542.982236837",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942543.186147778",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942543.397017971",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942543.601604069",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942543.809183515",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942544.013402284",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942544.216551292",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942544.420568963",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942544.624304745",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942544.827535094",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942545.031697964",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    }
+                ]
+            }
+        }
+    ],
+    "r1": [
+        {
+            "ifb-r1-r2-0": {
+                "11:": [
+                    {
+                        "timestamp": "1616942535.731110267",
+                        "kind": "codel",
+                        "count": "0",
+                        "lastcount": "0",
+                        "ldelay": "1us",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942535.943181004",
+                        "kind": "codel",
+                        "count": "0",
+                        "lastcount": "0",
+                        "ldelay": "2us",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942536.163462174",
+                        "kind": "codel",
+                        "count": "0",
+                        "lastcount": "0",
+                        "ldelay": "1us",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942536.374911178",
+                        "kind": "codel",
+                        "count": "0",
+                        "lastcount": "0",
+                        "ldelay": "45.8ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942536.595659790",
+                        "kind": "codel",
+                        "count": "2",
+                        "lastcount": "1",
+                        "ldelay": "100.5ms",
+                        "drop_next": "48.4ms"
+                    },
+                    {
+                        "timestamp": "1616942536.810991174",
+                        "kind": "codel",
+                        "count": "6",
+                        "lastcount": "1",
+                        "ldelay": "185.7ms",
+                        "drop_next": "24.4ms"
+                    },
+                    {
+                        "timestamp": "1616942537.025696871",
+                        "kind": "codel",
+                        "count": "12",
+                        "lastcount": "1",
+                        "ldelay": "278.8ms",
+                        "drop_next": "11.1ms"
+                    },
+                    {
+                        "timestamp": "1616942537.231293648",
+                        "kind": "codel",
+                        "count": "20",
+                        "lastcount": "1",
+                        "ldelay": "299.4ms",
+                        "drop_next": "2.2ms"
+                    },
+                    {
+                        "timestamp": "1616942537.437215390",
+                        "kind": "codel",
+                        "count": "31",
+                        "lastcount": "1",
+                        "ldelay": "235.6ms",
+                        "drop_next": "14.4ms"
+                    },
+                    {
+                        "timestamp": "1616942537.646249543",
+                        "kind": "codel",
+                        "count": "43",
+                        "lastcount": "1",
+                        "ldelay": "233.1ms",
+                        "drop_next": "1.5ms"
+                    },
+                    {
+                        "timestamp": "1616942537.851344148",
+                        "kind": "codel",
+                        "count": "58",
+                        "lastcount": "1",
+                        "ldelay": "191.9ms",
+                        "drop_next": "7.6ms"
+                    },
+                    {
+                        "timestamp": "1616942538.055290952",
+                        "kind": "codel",
+                        "count": "74",
+                        "lastcount": "1",
+                        "ldelay": "166.4ms",
+                        "drop_next": "123us"
+                    },
+                    {
+                        "timestamp": "1616942538.260602437",
+                        "kind": "codel",
+                        "count": "93",
+                        "lastcount": "1",
+                        "ldelay": "141.0ms",
+                        "drop_next": "274us"
+                    },
+                    {
+                        "timestamp": "1616942538.467976480",
+                        "kind": "codel",
+                        "count": "114",
+                        "lastcount": "1",
+                        "ldelay": "115.6ms",
+                        "drop_next": "677us"
+                    },
+                    {
+                        "timestamp": "1616942538.673928995",
+                        "kind": "codel",
+                        "count": "138",
+                        "lastcount": "1",
+                        "ldelay": "77.9ms",
+                        "drop_next": "6.4ms"
+                    },
+                    {
+                        "timestamp": "1616942538.887244749",
+                        "kind": "codel",
+                        "count": "164",
+                        "lastcount": "1",
+                        "ldelay": "42.8ms",
+                        "drop_next": "6.1ms"
+                    },
+                    {
+                        "timestamp": "1616942539.099451557",
+                        "kind": "codel",
+                        "count": "193",
+                        "lastcount": "1",
+                        "ldelay": "10.0ms",
+                        "drop_next": "3.2ms"
+                    },
+                    {
+                        "timestamp": "1616942539.314363064",
+                        "kind": "codel",
+                        "count": "203",
+                        "lastcount": "199",
+                        "ldelay": "15.9ms",
+                        "drop_next": "1.3ms"
+                    },
+                    {
+                        "timestamp": "1616942539.517701001",
+                        "kind": "codel",
+                        "count": "233",
+                        "lastcount": "199",
+                        "ldelay": "8.8ms",
+                        "drop_next": "957us"
+                    },
+                    {
+                        "timestamp": "1616942539.721270835",
+                        "kind": "codel",
+                        "count": "44",
+                        "lastcount": "40",
+                        "ldelay": "12.7ms",
+                        "drop_next": "3.8ms"
+                    },
+                    {
+                        "timestamp": "1616942539.925931400",
+                        "kind": "codel",
+                        "count": "59",
+                        "lastcount": "40",
+                        "ldelay": "45.3ms",
+                        "drop_next": "8.1ms"
+                    },
+                    {
+                        "timestamp": "1616942540.129905432",
+                        "kind": "codel",
+                        "count": "76",
+                        "lastcount": "40",
+                        "ldelay": "35.5ms",
+                        "drop_next": "8.0ms"
+                    },
+                    {
+                        "timestamp": "1616942540.336114496",
+                        "kind": "codel",
+                        "count": "95",
+                        "lastcount": "40",
+                        "ldelay": "6.4ms",
+                        "drop_next": "10.1ms"
+                    },
+                    {
+                        "timestamp": "1616942540.539413158",
+                        "kind": "codel",
+                        "count": "62",
+                        "lastcount": "58",
+                        "ldelay": "9.0ms",
+                        "drop_next": "7.0ms"
+                    },
+                    {
+                        "timestamp": "1616942540.745370999",
+                        "kind": "codel",
+                        "count": "66",
+                        "lastcount": "58",
+                        "ldelay": "7.8ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942540.950407361",
+                        "kind": "codel",
+                        "count": "12",
+                        "lastcount": "8",
+                        "ldelay": "7.6ms",
+                        "drop_next": "6.4ms"
+                    },
+                    {
+                        "timestamp": "1616942541.154786400",
+                        "kind": "codel",
+                        "count": "6",
+                        "lastcount": "6",
+                        "ldelay": "6.5ms",
+                        "drop_next": "25.6ms"
+                    },
+                    {
+                        "timestamp": "1616942541.359287365",
+                        "kind": "codel",
+                        "count": "6",
+                        "lastcount": "6",
+                        "ldelay": "6.7ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942541.562602651",
+                        "kind": "codel",
+                        "count": "1",
+                        "lastcount": "1",
+                        "ldelay": "10.1ms",
+                        "drop_next": "64.1ms"
+                    },
+                    {
+                        "timestamp": "1616942541.766320762",
+                        "kind": "codel",
+                        "count": "4",
+                        "lastcount": "1",
+                        "ldelay": "6.5ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942541.969976987",
+                        "kind": "codel",
+                        "count": "3",
+                        "lastcount": "3",
+                        "ldelay": "2.9ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942542.173854842",
+                        "kind": "codel",
+                        "count": "3",
+                        "lastcount": "3",
+                        "ldelay": "6.4ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942542.379061836",
+                        "kind": "codel",
+                        "count": "1",
+                        "lastcount": "1",
+                        "ldelay": "8.9ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942542.586940171",
+                        "kind": "codel",
+                        "count": "1",
+                        "lastcount": "1",
+                        "ldelay": "6.4ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942542.792169103",
+                        "kind": "codel",
+                        "count": "1",
+                        "lastcount": "1",
+                        "ldelay": "9.5ms",
+                        "drop_next": "19.3ms"
+                    },
+                    {
+                        "timestamp": "1616942542.996157495",
+                        "kind": "codel",
+                        "count": "4",
+                        "lastcount": "1",
+                        "ldelay": "8.2ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942543.201379859",
+                        "kind": "codel",
+                        "count": "4",
+                        "lastcount": "3",
+                        "ldelay": "7.0ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942543.406368609",
+                        "kind": "codel",
+                        "count": "1",
+                        "lastcount": "1",
+                        "ldelay": "8.2ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942543.612112178",
+                        "kind": "codel",
+                        "count": "1",
+                        "lastcount": "1",
+                        "ldelay": "4.6ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942543.815405363",
+                        "kind": "codel",
+                        "count": "1",
+                        "lastcount": "1",
+                        "ldelay": "7.0ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942544.018314775",
+                        "kind": "codel",
+                        "count": "1",
+                        "lastcount": "1",
+                        "ldelay": "6.0ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942544.221784595",
+                        "kind": "codel",
+                        "count": "1",
+                        "lastcount": "1",
+                        "ldelay": "11.8ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942544.439268366",
+                        "kind": "codel",
+                        "count": "2",
+                        "lastcount": "1",
+                        "ldelay": "8.2ms",
+                        "drop_next": "5.4ms"
+                    },
+                    {
+                        "timestamp": "1616942544.647970977",
+                        "kind": "codel",
+                        "count": "3",
+                        "lastcount": "1",
+                        "ldelay": "8.2ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942544.850942106",
+                        "kind": "codel",
+                        "count": "2",
+                        "lastcount": "2",
+                        "ldelay": "9.4ms",
+                        "drop_next": "0us"
+                    },
+                    {
+                        "timestamp": "1616942545.055420844",
+                        "kind": "codel",
+                        "count": "1",
+                        "lastcount": "1",
+                        "ldelay": "7.0ms",
+                        "drop_next": "0us"
+                    }
+                ]
+            }
+        }
+    ]
+}

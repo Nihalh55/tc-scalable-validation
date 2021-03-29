@@ -1,0 +1,2082 @@
+{
+    "r2": [
+        {
+            "ifb-r2-r1-0": {
+                "11:": [
+                    {
+                        "timestamp": "1616942891.769043584",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942891.973919609",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942892.178139024",
+                        "kind": "pie",
+                        "prob": "0.000000",
+                        "delay": "0us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942892.383097583",
+                        "kind": "pie",
+                        "prob": "0.603816",
+                        "delay": "27732us",
+                        "avg_dq_rate": "12941"
+                    },
+                    {
+                        "timestamp": "1616942892.592811933",
+                        "kind": "pie",
+                        "prob": "0.979293",
+                        "delay": "306168496us",
+                        "avg_dq_rate": "172559"
+                    },
+                    {
+                        "timestamp": "1616942892.798126044",
+                        "kind": "pie",
+                        "prob": "0.544839",
+                        "delay": "1713428670us",
+                        "avg_dq_rate": "314990"
+                    },
+                    {
+                        "timestamp": "1616942893.004206101",
+                        "kind": "pie",
+                        "prob": "0.104839",
+                        "delay": "3259616897us",
+                        "avg_dq_rate": "314990"
+                    },
+                    {
+                        "timestamp": "1616942893.209773222",
+                        "kind": "pie",
+                        "prob": "0.401970",
+                        "delay": "3877582976us",
+                        "avg_dq_rate": "154224"
+                    },
+                    {
+                        "timestamp": "1616942893.414791471",
+                        "kind": "pie",
+                        "prob": "0.282505",
+                        "delay": "3420564852us",
+                        "avg_dq_rate": "15168"
+                    },
+                    {
+                        "timestamp": "1616942893.624402015",
+                        "kind": "pie",
+                        "prob": "0.633135",
+                        "delay": "3302691514us",
+                        "avg_dq_rate": "65788"
+                    },
+                    {
+                        "timestamp": "1616942893.832227092",
+                        "kind": "pie",
+                        "prob": "0.286089",
+                        "delay": "2994608906us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942894.037785807",
+                        "kind": "pie",
+                        "prob": "0.802237",
+                        "delay": "2839786514us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942894.243458965",
+                        "kind": "pie",
+                        "prob": "0.355273",
+                        "delay": "2633717222us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942894.446855607",
+                        "kind": "pie",
+                        "prob": "0.790976",
+                        "delay": "2176036004us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942894.651862827",
+                        "kind": "pie",
+                        "prob": "0.109875",
+                        "delay": "1821430210us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942894.857523098",
+                        "kind": "pie",
+                        "prob": "0.979952",
+                        "delay": "1531050450us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942895.060546021",
+                        "kind": "pie",
+                        "prob": "0.666210",
+                        "delay": "1234037871us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942895.264688249",
+                        "kind": "pie",
+                        "prob": "0.893671",
+                        "delay": "980302742us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942895.476399556",
+                        "kind": "pie",
+                        "prob": "0.861805",
+                        "delay": "846813593us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942895.680663975",
+                        "kind": "pie",
+                        "prob": "0.591142",
+                        "delay": "691677302us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942895.885494056",
+                        "kind": "pie",
+                        "prob": "0.216528",
+                        "delay": "602662842us",
+                        "avg_dq_rate": "4313"
+                    },
+                    {
+                        "timestamp": "1616942896.089363446",
+                        "kind": "pie",
+                        "prob": "0.668338",
+                        "delay": "520276426us",
+                        "avg_dq_rate": "4313"
+                    },
+                    {
+                        "timestamp": "1616942896.292988037",
+                        "kind": "pie",
+                        "prob": "0.994629",
+                        "delay": "491803610us",
+                        "avg_dq_rate": "8627"
+                    },
+                    {
+                        "timestamp": "1616942896.497688317",
+                        "kind": "pie",
+                        "prob": "0.867268",
+                        "delay": "413509191us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942896.702897497",
+                        "kind": "pie",
+                        "prob": "0.615936",
+                        "delay": "328077182us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942896.907620011",
+                        "kind": "pie",
+                        "prob": "0.179926",
+                        "delay": "289547464us",
+                        "avg_dq_rate": "4313"
+                    },
+                    {
+                        "timestamp": "1616942897.112852554",
+                        "kind": "pie",
+                        "prob": "0.973878",
+                        "delay": "282277939us",
+                        "avg_dq_rate": "8627"
+                    },
+                    {
+                        "timestamp": "1616942897.317179298",
+                        "kind": "pie",
+                        "prob": "0.261688",
+                        "delay": "241696443us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942897.523554900",
+                        "kind": "pie",
+                        "prob": "0.584670",
+                        "delay": "232426924us",
+                        "avg_dq_rate": "8627"
+                    },
+                    {
+                        "timestamp": "1616942897.731558490",
+                        "kind": "pie",
+                        "prob": "0.037778",
+                        "delay": "206532498us",
+                        "avg_dq_rate": "4313"
+                    },
+                    {
+                        "timestamp": "1616942897.938652956",
+                        "kind": "pie",
+                        "prob": "0.397959",
+                        "delay": "163028035us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942898.145874599",
+                        "kind": "pie",
+                        "prob": "0.247283",
+                        "delay": "133865665us",
+                        "avg_dq_rate": "4313"
+                    },
+                    {
+                        "timestamp": "1616942898.354566837",
+                        "kind": "pie",
+                        "prob": "0.634523",
+                        "delay": "112707728us",
+                        "avg_dq_rate": "5392"
+                    },
+                    {
+                        "timestamp": "1616942898.557373209",
+                        "kind": "pie",
+                        "prob": "0.027755",
+                        "delay": "81776152us",
+                        "avg_dq_rate": "6470"
+                    },
+                    {
+                        "timestamp": "1616942898.760926839",
+                        "kind": "pie",
+                        "prob": "0.670719",
+                        "delay": "69901065us",
+                        "avg_dq_rate": "8627"
+                    },
+                    {
+                        "timestamp": "1616942898.966166078",
+                        "kind": "pie",
+                        "prob": "0.843050",
+                        "delay": "52480059us",
+                        "avg_dq_rate": "8627"
+                    },
+                    {
+                        "timestamp": "1616942899.170619390",
+                        "kind": "pie",
+                        "prob": "0.267852",
+                        "delay": "25335463us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942899.373268619",
+                        "kind": "pie",
+                        "prob": "0.553174",
+                        "delay": "17979462us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942899.577654438",
+                        "kind": "pie",
+                        "prob": "0.682973",
+                        "delay": "12834731us",
+                        "avg_dq_rate": "5392"
+                    },
+                    {
+                        "timestamp": "1616942899.784753443",
+                        "kind": "pie",
+                        "prob": "0.764348",
+                        "delay": "14095321us",
+                        "avg_dq_rate": "12402"
+                    },
+                    {
+                        "timestamp": "1616942899.991104033",
+                        "kind": "pie",
+                        "prob": "0.071852",
+                        "delay": "16258628us",
+                        "avg_dq_rate": "15098"
+                    },
+                    {
+                        "timestamp": "1616942900.202208999",
+                        "kind": "pie",
+                        "prob": "0.371857",
+                        "delay": "12643150us",
+                        "avg_dq_rate": "8627"
+                    },
+                    {
+                        "timestamp": "1616942900.408704053",
+                        "kind": "pie",
+                        "prob": "0.691960",
+                        "delay": "19012569us",
+                        "avg_dq_rate": "18404"
+                    },
+                    {
+                        "timestamp": "1616942900.621253562",
+                        "kind": "pie",
+                        "prob": "0.160616",
+                        "delay": "26248928us",
+                        "avg_dq_rate": "23796"
+                    },
+                    {
+                        "timestamp": "1616942900.827928691",
+                        "kind": "pie",
+                        "prob": "0.034405",
+                        "delay": "26707403us",
+                        "avg_dq_rate": "18334"
+                    },
+                    {
+                        "timestamp": "1616942901.040772478",
+                        "kind": "pie",
+                        "prob": "0.781313",
+                        "delay": "37345392us",
+                        "avg_dq_rate": "26962"
+                    },
+                    {
+                        "timestamp": "1616942901.249995214",
+                        "kind": "pie",
+                        "prob": "0.875464",
+                        "delay": "57367795us",
+                        "avg_dq_rate": "26962"
+                    },
+                    {
+                        "timestamp": "1616942901.459043040",
+                        "kind": "pie",
+                        "prob": "0.277503",
+                        "delay": "68942784us",
+                        "avg_dq_rate": "21569"
+                    },
+                    {
+                        "timestamp": "1616942901.669597852",
+                        "kind": "pie",
+                        "prob": "0.441566",
+                        "delay": "68648046us",
+                        "avg_dq_rate": "14020"
+                    },
+                    {
+                        "timestamp": "1616942901.877322645",
+                        "kind": "pie",
+                        "prob": "0.246401",
+                        "delay": "28017983us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942902.085508729",
+                        "kind": "pie",
+                        "prob": "0.816346",
+                        "delay": "19971533us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942902.296483027",
+                        "kind": "pie",
+                        "prob": "0.660794",
+                        "delay": "14299396us",
+                        "avg_dq_rate": "6470"
+                    },
+                    {
+                        "timestamp": "1616942902.504192741",
+                        "kind": "pie",
+                        "prob": "0.252277",
+                        "delay": "16646712us",
+                        "avg_dq_rate": "14020"
+                    },
+                    {
+                        "timestamp": "1616942902.710616934",
+                        "kind": "pie",
+                        "prob": "0.921451",
+                        "delay": "19323292us",
+                        "avg_dq_rate": "17255"
+                    },
+                    {
+                        "timestamp": "1616942902.920117361",
+                        "kind": "pie",
+                        "prob": "0.072273",
+                        "delay": "11794795us",
+                        "avg_dq_rate": "10784"
+                    },
+                    {
+                        "timestamp": "1616942903.146051622",
+                        "kind": "pie",
+                        "prob": "0.326586",
+                        "delay": "18096680us",
+                        "avg_dq_rate": "19412"
+                    },
+                    {
+                        "timestamp": "1616942903.369027167",
+                        "kind": "pie",
+                        "prob": "0.856118",
+                        "delay": "15851670us",
+                        "avg_dq_rate": "12941"
+                    },
+                    {
+                        "timestamp": "1616942903.576155163",
+                        "kind": "pie",
+                        "prob": "0.135292",
+                        "delay": "14960727us",
+                        "avg_dq_rate": "15098"
+                    },
+                    {
+                        "timestamp": "1616942903.783799304",
+                        "kind": "pie",
+                        "prob": "0.151244",
+                        "delay": "20098165us",
+                        "avg_dq_rate": "20491"
+                    },
+                    {
+                        "timestamp": "1616942903.990415114",
+                        "kind": "pie",
+                        "prob": "0.723526",
+                        "delay": "30374286us",
+                        "avg_dq_rate": "25883"
+                    },
+                    {
+                        "timestamp": "1616942904.201001410",
+                        "kind": "pie",
+                        "prob": "0.522954",
+                        "delay": "51040157us",
+                        "avg_dq_rate": "32354"
+                    },
+                    {
+                        "timestamp": "1616942904.407371685",
+                        "kind": "pie",
+                        "prob": "0.138949",
+                        "delay": "121030807us",
+                        "avg_dq_rate": "36738"
+                    },
+                    {
+                        "timestamp": "1616942904.614025772",
+                        "kind": "pie",
+                        "prob": "0.044424",
+                        "delay": "118495402us",
+                        "avg_dq_rate": "23726"
+                    },
+                    {
+                        "timestamp": "1616942904.826066993",
+                        "kind": "pie",
+                        "prob": "0.617224",
+                        "delay": "47672979us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942905.033605712",
+                        "kind": "pie",
+                        "prob": "0.345879",
+                        "delay": "29347637us",
+                        "avg_dq_rate": "2067"
+                    },
+                    {
+                        "timestamp": "1616942905.240407721",
+                        "kind": "pie",
+                        "prob": "0.740795",
+                        "delay": "23994658us",
+                        "avg_dq_rate": "6201"
+                    },
+                    {
+                        "timestamp": "1616942905.448276885",
+                        "kind": "pie",
+                        "prob": "0.750851",
+                        "delay": "25256077us",
+                        "avg_dq_rate": "12941"
+                    },
+                    {
+                        "timestamp": "1616942905.654385287",
+                        "kind": "pie",
+                        "prob": "0.167357",
+                        "delay": "25264427us",
+                        "avg_dq_rate": "16177"
+                    },
+                    {
+                        "timestamp": "1616942905.861838477",
+                        "kind": "pie",
+                        "prob": "0.463068",
+                        "delay": "32717870us",
+                        "avg_dq_rate": "23726"
+                    },
+                    {
+                        "timestamp": "1616942906.068278803",
+                        "kind": "pie",
+                        "prob": "0.411719",
+                        "delay": "42202558us",
+                        "avg_dq_rate": "28040"
+                    },
+                    {
+                        "timestamp": "1616942906.282901547",
+                        "kind": "pie",
+                        "prob": "0.322910",
+                        "delay": "19965206us",
+                        "avg_dq_rate": "8627"
+                    },
+                    {
+                        "timestamp": "1616942906.489287509",
+                        "kind": "pie",
+                        "prob": "0.021720",
+                        "delay": "6427558us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942906.696844567",
+                        "kind": "pie",
+                        "prob": "0.595416",
+                        "delay": "3231700us",
+                        "avg_dq_rate": "4313"
+                    },
+                    {
+                        "timestamp": "1616942906.914153346",
+                        "kind": "pie",
+                        "prob": "0.817818",
+                        "delay": "3412796us",
+                        "avg_dq_rate": "12941"
+                    },
+                    {
+                        "timestamp": "1616942907.120316543",
+                        "kind": "pie",
+                        "prob": "0.606592",
+                        "delay": "4470972us",
+                        "avg_dq_rate": "19412"
+                    },
+                    {
+                        "timestamp": "1616942907.329765748",
+                        "kind": "pie",
+                        "prob": "0.668080",
+                        "delay": "11141418us",
+                        "avg_dq_rate": "23726"
+                    },
+                    {
+                        "timestamp": "1616942907.538823670",
+                        "kind": "pie",
+                        "prob": "0.479543",
+                        "delay": "27936119us",
+                        "avg_dq_rate": "33433"
+                    },
+                    {
+                        "timestamp": "1616942907.747506092",
+                        "kind": "pie",
+                        "prob": "0.947888",
+                        "delay": "46540259us",
+                        "avg_dq_rate": "39904"
+                    },
+                    {
+                        "timestamp": "1616942907.956627598",
+                        "kind": "pie",
+                        "prob": "0.137143",
+                        "delay": "36717588us",
+                        "avg_dq_rate": "21569"
+                    },
+                    {
+                        "timestamp": "1616942908.166312981",
+                        "kind": "pie",
+                        "prob": "0.211641",
+                        "delay": "74673511us",
+                        "avg_dq_rate": "32354"
+                    },
+                    {
+                        "timestamp": "1616942908.374523315",
+                        "kind": "pie",
+                        "prob": "0.071054",
+                        "delay": "130561670us",
+                        "avg_dq_rate": "34511"
+                    },
+                    {
+                        "timestamp": "1616942908.581551342",
+                        "kind": "pie",
+                        "prob": "0.345636",
+                        "delay": "125627010us",
+                        "avg_dq_rate": "20491"
+                    },
+                    {
+                        "timestamp": "1616942908.788252285",
+                        "kind": "pie",
+                        "prob": "0.131425",
+                        "delay": "91459841us",
+                        "avg_dq_rate": "10784"
+                    },
+                    {
+                        "timestamp": "1616942908.996752773",
+                        "kind": "pie",
+                        "prob": "0.954082",
+                        "delay": "47874220us",
+                        "avg_dq_rate": "2067"
+                    },
+                    {
+                        "timestamp": "1616942909.203275693",
+                        "kind": "pie",
+                        "prob": "0.662631",
+                        "delay": "26677909us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942909.409775794",
+                        "kind": "pie",
+                        "prob": "0.458349",
+                        "delay": "17892508us",
+                        "avg_dq_rate": "2067"
+                    },
+                    {
+                        "timestamp": "1616942909.615833161",
+                        "kind": "pie",
+                        "prob": "0.788465",
+                        "delay": "15312339us",
+                        "avg_dq_rate": "8268"
+                    },
+                    {
+                        "timestamp": "1616942909.824089480",
+                        "kind": "pie",
+                        "prob": "0.798289",
+                        "delay": "20715876us",
+                        "avg_dq_rate": "17255"
+                    },
+                    {
+                        "timestamp": "1616942910.030037287",
+                        "kind": "pie",
+                        "prob": "0.600908",
+                        "delay": "29885524us",
+                        "avg_dq_rate": "24875"
+                    },
+                    {
+                        "timestamp": "1616942910.236522507",
+                        "kind": "pie",
+                        "prob": "0.567069",
+                        "delay": "44074713us",
+                        "avg_dq_rate": "32424"
+                    },
+                    {
+                        "timestamp": "1616942910.444082839",
+                        "kind": "pie",
+                        "prob": "0.461212",
+                        "delay": "66822827us",
+                        "avg_dq_rate": "32424"
+                    },
+                    {
+                        "timestamp": "1616942910.650633541",
+                        "kind": "pie",
+                        "prob": "0.352179",
+                        "delay": "19544437us",
+                        "avg_dq_rate": "13011"
+                    },
+                    {
+                        "timestamp": "1616942910.857808983",
+                        "kind": "pie",
+                        "prob": "0.716231",
+                        "delay": "24562612us",
+                        "avg_dq_rate": "17255"
+                    },
+                    {
+                        "timestamp": "1616942911.063683707",
+                        "kind": "pie",
+                        "prob": "0.109984",
+                        "delay": "23387385us",
+                        "avg_dq_rate": "15098"
+                    },
+                    {
+                        "timestamp": "1616942911.270108985",
+                        "kind": "pie",
+                        "prob": "0.465487",
+                        "delay": "31136996us",
+                        "avg_dq_rate": "21569"
+                    },
+                    {
+                        "timestamp": "1616942911.481230396",
+                        "kind": "pie",
+                        "prob": "0.357496",
+                        "delay": "42419785us",
+                        "avg_dq_rate": "28040"
+                    },
+                    {
+                        "timestamp": "1616942911.688730319",
+                        "kind": "pie",
+                        "prob": "0.917401",
+                        "delay": "38332831us",
+                        "avg_dq_rate": "16177"
+                    },
+                    {
+                        "timestamp": "1616942911.895651380",
+                        "kind": "pie",
+                        "prob": "0.262546",
+                        "delay": "32469003us",
+                        "avg_dq_rate": "9706"
+                    },
+                    {
+                        "timestamp": "1616942912.102922960",
+                        "kind": "pie",
+                        "prob": "0.456009",
+                        "delay": "34302563us",
+                        "avg_dq_rate": "16177"
+                    },
+                    {
+                        "timestamp": "1616942912.313911334",
+                        "kind": "pie",
+                        "prob": "0.722729",
+                        "delay": "38426702us",
+                        "avg_dq_rate": "20491"
+                    },
+                    {
+                        "timestamp": "1616942912.525066571",
+                        "kind": "pie",
+                        "prob": "0.277090",
+                        "delay": "31362628us",
+                        "avg_dq_rate": "10335"
+                    },
+                    {
+                        "timestamp": "1616942912.734467982",
+                        "kind": "pie",
+                        "prob": "0.372220",
+                        "delay": "25727983us",
+                        "avg_dq_rate": "8268"
+                    },
+                    {
+                        "timestamp": "1616942912.944555167",
+                        "kind": "pie",
+                        "prob": "0.963115",
+                        "delay": "26154696us",
+                        "avg_dq_rate": "12941"
+                    },
+                    {
+                        "timestamp": "1616942913.159520839",
+                        "kind": "pie",
+                        "prob": "0.850973",
+                        "delay": "19784246us",
+                        "avg_dq_rate": "7549"
+                    },
+                    {
+                        "timestamp": "1616942913.373039846",
+                        "kind": "pie",
+                        "prob": "0.906672",
+                        "delay": "23980764us",
+                        "avg_dq_rate": "16177"
+                    },
+                    {
+                        "timestamp": "1616942913.580334630",
+                        "kind": "pie",
+                        "prob": "0.163483",
+                        "delay": "30059054us",
+                        "avg_dq_rate": "21569"
+                    },
+                    {
+                        "timestamp": "1616942913.788285997",
+                        "kind": "pie",
+                        "prob": "0.148070",
+                        "delay": "26511265us",
+                        "avg_dq_rate": "15098"
+                    },
+                    {
+                        "timestamp": "1616942913.997038807",
+                        "kind": "pie",
+                        "prob": "0.895748",
+                        "delay": "38379702us",
+                        "avg_dq_rate": "25883"
+                    },
+                    {
+                        "timestamp": "1616942914.205721089",
+                        "kind": "pie",
+                        "prob": "0.177278",
+                        "delay": "70053914us",
+                        "avg_dq_rate": "29119"
+                    },
+                    {
+                        "timestamp": "1616942914.411704997",
+                        "kind": "pie",
+                        "prob": "0.440731",
+                        "delay": "129679158us",
+                        "avg_dq_rate": "34511"
+                    },
+                    {
+                        "timestamp": "1616942914.619596338",
+                        "kind": "pie",
+                        "prob": "0.816550",
+                        "delay": "58184462us",
+                        "avg_dq_rate": "4313"
+                    },
+                    {
+                        "timestamp": "1616942914.828449952",
+                        "kind": "pie",
+                        "prob": "0.186060",
+                        "delay": "34862172us",
+                        "avg_dq_rate": "6470"
+                    },
+                    {
+                        "timestamp": "1616942915.035921967",
+                        "kind": "pie",
+                        "prob": "0.143173",
+                        "delay": "31230687us",
+                        "avg_dq_rate": "8627"
+                    },
+                    {
+                        "timestamp": "1616942915.242529661",
+                        "kind": "pie",
+                        "prob": "0.254144",
+                        "delay": "33343639us",
+                        "avg_dq_rate": "13011"
+                    },
+                    {
+                        "timestamp": "1616942915.449173578",
+                        "kind": "pie",
+                        "prob": "0.385440",
+                        "delay": "24569433us",
+                        "avg_dq_rate": "6201"
+                    },
+                    {
+                        "timestamp": "1616942915.655907948",
+                        "kind": "pie",
+                        "prob": "0.702264",
+                        "delay": "27302810us",
+                        "avg_dq_rate": "14536"
+                    },
+                    {
+                        "timestamp": "1616942915.864422438",
+                        "kind": "pie",
+                        "prob": "0.216329",
+                        "delay": "18776450us",
+                        "avg_dq_rate": "7549"
+                    },
+                    {
+                        "timestamp": "1616942916.071349105",
+                        "kind": "pie",
+                        "prob": "0.600490",
+                        "delay": "24643667us",
+                        "avg_dq_rate": "18334"
+                    },
+                    {
+                        "timestamp": "1616942916.291131232",
+                        "kind": "pie",
+                        "prob": "0.282216",
+                        "delay": "33682761us",
+                        "avg_dq_rate": "25883"
+                    },
+                    {
+                        "timestamp": "1616942916.498116970",
+                        "kind": "pie",
+                        "prob": "0.735404",
+                        "delay": "44180700us",
+                        "avg_dq_rate": "29119"
+                    },
+                    {
+                        "timestamp": "1616942916.706289197",
+                        "kind": "pie",
+                        "prob": "0.316904",
+                        "delay": "25444494us",
+                        "avg_dq_rate": "12402"
+                    },
+                    {
+                        "timestamp": "1616942916.913752112",
+                        "kind": "pie",
+                        "prob": "0.887240",
+                        "delay": "27234464us",
+                        "avg_dq_rate": "17255"
+                    },
+                    {
+                        "timestamp": "1616942917.121654927",
+                        "kind": "pie",
+                        "prob": "0.758693",
+                        "delay": "15139600us",
+                        "avg_dq_rate": "6470"
+                    },
+                    {
+                        "timestamp": "1616942917.329067946",
+                        "kind": "pie",
+                        "prob": "0.420107",
+                        "delay": "18354349us",
+                        "avg_dq_rate": "15098"
+                    },
+                    {
+                        "timestamp": "1616942917.538835716",
+                        "kind": "pie",
+                        "prob": "0.078980",
+                        "delay": "25235441us",
+                        "avg_dq_rate": "21569"
+                    },
+                    {
+                        "timestamp": "1616942917.777403996",
+                        "kind": "pie",
+                        "prob": "0.799396",
+                        "delay": "40444495us",
+                        "avg_dq_rate": "31276"
+                    },
+                    {
+                        "timestamp": "1616942917.995207452",
+                        "kind": "pie",
+                        "prob": "0.946028",
+                        "delay": "95547014us",
+                        "avg_dq_rate": "37747"
+                    },
+                    {
+                        "timestamp": "1616942918.212847048",
+                        "kind": "pie",
+                        "prob": "0.038701",
+                        "delay": "157198745us",
+                        "avg_dq_rate": "39904"
+                    },
+                    {
+                        "timestamp": "1616942918.418540305",
+                        "kind": "pie",
+                        "prob": "0.081573",
+                        "delay": "156659864us",
+                        "avg_dq_rate": "24805"
+                    },
+                    {
+                        "timestamp": "1616942918.625774072",
+                        "kind": "pie",
+                        "prob": "0.140900",
+                        "delay": "78419895us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942918.842284446",
+                        "kind": "pie",
+                        "prob": "0.572045",
+                        "delay": "35930116us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942919.051229910",
+                        "kind": "pie",
+                        "prob": "0.319992",
+                        "delay": "29428719us",
+                        "avg_dq_rate": "4313"
+                    },
+                    {
+                        "timestamp": "1616942919.256939928",
+                        "kind": "pie",
+                        "prob": "0.864942",
+                        "delay": "20124346us",
+                        "avg_dq_rate": "4313"
+                    },
+                    {
+                        "timestamp": "1616942919.465002473",
+                        "kind": "pie",
+                        "prob": "0.714855",
+                        "delay": "10062668us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942919.674100720",
+                        "kind": "pie",
+                        "prob": "0.190956",
+                        "delay": "12920252us",
+                        "avg_dq_rate": "12402"
+                    },
+                    {
+                        "timestamp": "1616942919.882104236",
+                        "kind": "pie",
+                        "prob": "0.113625",
+                        "delay": "18814575us",
+                        "avg_dq_rate": "19412"
+                    },
+                    {
+                        "timestamp": "1616942920.087084904",
+                        "kind": "pie",
+                        "prob": "0.677270",
+                        "delay": "28918485us",
+                        "avg_dq_rate": "27032"
+                    },
+                    {
+                        "timestamp": "1616942920.292373314",
+                        "kind": "pie",
+                        "prob": "0.741847",
+                        "delay": "41619923us",
+                        "avg_dq_rate": "30197"
+                    },
+                    {
+                        "timestamp": "1616942920.501323320",
+                        "kind": "pie",
+                        "prob": "0.871174",
+                        "delay": "18998008us",
+                        "avg_dq_rate": "10784"
+                    },
+                    {
+                        "timestamp": "1616942920.705804101",
+                        "kind": "pie",
+                        "prob": "0.206363",
+                        "delay": "6784466us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942920.934704267",
+                        "kind": "pie",
+                        "prob": "0.205670",
+                        "delay": "10046120us",
+                        "avg_dq_rate": "12941"
+                    },
+                    {
+                        "timestamp": "1616942921.143001958",
+                        "kind": "pie",
+                        "prob": "0.072864",
+                        "delay": "17163173us",
+                        "avg_dq_rate": "21569"
+                    },
+                    {
+                        "timestamp": "1616942921.356293181",
+                        "kind": "pie",
+                        "prob": "0.820487",
+                        "delay": "29031610us",
+                        "avg_dq_rate": "30197"
+                    },
+                    {
+                        "timestamp": "1616942921.570066682",
+                        "kind": "pie",
+                        "prob": "0.799173",
+                        "delay": "44674916us",
+                        "avg_dq_rate": "35590"
+                    },
+                    {
+                        "timestamp": "1616942921.791976386",
+                        "kind": "pie",
+                        "prob": "0.048943",
+                        "delay": "116775512us",
+                        "avg_dq_rate": "38825"
+                    },
+                    {
+                        "timestamp": "1616942922.001450475",
+                        "kind": "pie",
+                        "prob": "0.266168",
+                        "delay": "152082153us",
+                        "avg_dq_rate": "32354"
+                    },
+                    {
+                        "timestamp": "1616942922.214451605",
+                        "kind": "pie",
+                        "prob": "0.825481",
+                        "delay": "93000170us",
+                        "avg_dq_rate": "7549"
+                    },
+                    {
+                        "timestamp": "1616942922.423911502",
+                        "kind": "pie",
+                        "prob": "0.296236",
+                        "delay": "38788194us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942922.635005198",
+                        "kind": "pie",
+                        "prob": "0.600384",
+                        "delay": "30745399us",
+                        "avg_dq_rate": "6470"
+                    },
+                    {
+                        "timestamp": "1616942922.849561712",
+                        "kind": "pie",
+                        "prob": "0.527898",
+                        "delay": "25296941us",
+                        "avg_dq_rate": "8697"
+                    },
+                    {
+                        "timestamp": "1616942923.066225372",
+                        "kind": "pie",
+                        "prob": "0.577123",
+                        "delay": "28151475us",
+                        "avg_dq_rate": "15168"
+                    },
+                    {
+                        "timestamp": "1616942923.292707284",
+                        "kind": "pie",
+                        "prob": "0.955817",
+                        "delay": "28677621us",
+                        "avg_dq_rate": "17255"
+                    },
+                    {
+                        "timestamp": "1616942923.498649085",
+                        "kind": "pie",
+                        "prob": "0.661791",
+                        "delay": "37010923us",
+                        "avg_dq_rate": "23726"
+                    },
+                    {
+                        "timestamp": "1616942923.709291345",
+                        "kind": "pie",
+                        "prob": "0.736056",
+                        "delay": "49043961us",
+                        "avg_dq_rate": "25883"
+                    },
+                    {
+                        "timestamp": "1616942923.919824358",
+                        "kind": "pie",
+                        "prob": "0.595129",
+                        "delay": "30464375us",
+                        "avg_dq_rate": "10784"
+                    },
+                    {
+                        "timestamp": "1616942924.137778238",
+                        "kind": "pie",
+                        "prob": "0.044910",
+                        "delay": "35207338us",
+                        "avg_dq_rate": "19412"
+                    },
+                    {
+                        "timestamp": "1616942924.349253707",
+                        "kind": "pie",
+                        "prob": "0.099979",
+                        "delay": "32896594us",
+                        "avg_dq_rate": "12941"
+                    },
+                    {
+                        "timestamp": "1616942924.574271072",
+                        "kind": "pie",
+                        "prob": "0.570994",
+                        "delay": "30300114us",
+                        "avg_dq_rate": "14469"
+                    },
+                    {
+                        "timestamp": "1616942924.782217460",
+                        "kind": "pie",
+                        "prob": "0.355480",
+                        "delay": "14865840us",
+                        "avg_dq_rate": "3235"
+                    },
+                    {
+                        "timestamp": "1616942925.007170092",
+                        "kind": "pie",
+                        "prob": "0.754243",
+                        "delay": "17252918us",
+                        "avg_dq_rate": "12941"
+                    },
+                    {
+                        "timestamp": "1616942925.220309914",
+                        "kind": "pie",
+                        "prob": "0.347715",
+                        "delay": "25599032us",
+                        "avg_dq_rate": "21569"
+                    },
+                    {
+                        "timestamp": "1616942925.429059408",
+                        "kind": "pie",
+                        "prob": "0.409245",
+                        "delay": "32328726us",
+                        "avg_dq_rate": "21569"
+                    },
+                    {
+                        "timestamp": "1616942925.639258107",
+                        "kind": "pie",
+                        "prob": "0.221782",
+                        "delay": "40168665us",
+                        "avg_dq_rate": "23726"
+                    },
+                    {
+                        "timestamp": "1616942925.848042709",
+                        "kind": "pie",
+                        "prob": "0.012532",
+                        "delay": "29679990us",
+                        "avg_dq_rate": "17255"
+                    },
+                    {
+                        "timestamp": "1616942926.057624647",
+                        "kind": "pie",
+                        "prob": "0.356183",
+                        "delay": "19690686us",
+                        "avg_dq_rate": "8627"
+                    },
+                    {
+                        "timestamp": "1616942926.268025492",
+                        "kind": "pie",
+                        "prob": "0.402191",
+                        "delay": "18058156us",
+                        "avg_dq_rate": "10854"
+                    },
+                    {
+                        "timestamp": "1616942926.478114073",
+                        "kind": "pie",
+                        "prob": "0.965842",
+                        "delay": "13635211us",
+                        "avg_dq_rate": "10854"
+                    },
+                    {
+                        "timestamp": "1616942926.698237562",
+                        "kind": "pie",
+                        "prob": "0.891469",
+                        "delay": "18890241us",
+                        "avg_dq_rate": "19482"
+                    },
+                    {
+                        "timestamp": "1616942926.907044124",
+                        "kind": "pie",
+                        "prob": "0.466597",
+                        "delay": "23836038us",
+                        "avg_dq_rate": "21569"
+                    },
+                    {
+                        "timestamp": "1616942927.126803135",
+                        "kind": "pie",
+                        "prob": "0.136007",
+                        "delay": "26446906us",
+                        "avg_dq_rate": "19412"
+                    },
+                    {
+                        "timestamp": "1616942927.335113640",
+                        "kind": "pie",
+                        "prob": "0.510916",
+                        "delay": "35565031us",
+                        "avg_dq_rate": "25883"
+                    },
+                    {
+                        "timestamp": "1616942927.552058785",
+                        "kind": "pie",
+                        "prob": "0.482449",
+                        "delay": "39689166us",
+                        "avg_dq_rate": "21569"
+                    },
+                    {
+                        "timestamp": "1616942927.768907554",
+                        "kind": "pie",
+                        "prob": "0.124836",
+                        "delay": "34953806us",
+                        "avg_dq_rate": "15098"
+                    },
+                    {
+                        "timestamp": "1616942927.995777789",
+                        "kind": "pie",
+                        "prob": "0.413548",
+                        "delay": "19202760us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942928.209815171",
+                        "kind": "pie",
+                        "prob": "0.521297",
+                        "delay": "16156928us",
+                        "avg_dq_rate": "8627"
+                    },
+                    {
+                        "timestamp": "1616942928.422240481",
+                        "kind": "pie",
+                        "prob": "0.356096",
+                        "delay": "20167079us",
+                        "avg_dq_rate": "17255"
+                    },
+                    {
+                        "timestamp": "1616942928.629676546",
+                        "kind": "pie",
+                        "prob": "0.613620",
+                        "delay": "27475816us",
+                        "avg_dq_rate": "22648"
+                    },
+                    {
+                        "timestamp": "1616942928.834019359",
+                        "kind": "pie",
+                        "prob": "0.928534",
+                        "delay": "37243353us",
+                        "avg_dq_rate": "28040"
+                    },
+                    {
+                        "timestamp": "1616942929.057037595",
+                        "kind": "pie",
+                        "prob": "0.031753",
+                        "delay": "35364907us",
+                        "avg_dq_rate": "17255"
+                    },
+                    {
+                        "timestamp": "1616942929.265637865",
+                        "kind": "pie",
+                        "prob": "0.130597",
+                        "delay": "56991549us",
+                        "avg_dq_rate": "25883"
+                    },
+                    {
+                        "timestamp": "1616942929.480540338",
+                        "kind": "pie",
+                        "prob": "0.285641",
+                        "delay": "42536845us",
+                        "avg_dq_rate": "14020"
+                    },
+                    {
+                        "timestamp": "1616942929.690491774",
+                        "kind": "pie",
+                        "prob": "0.973046",
+                        "delay": "61021662us",
+                        "avg_dq_rate": "19482"
+                    },
+                    {
+                        "timestamp": "1616942929.901769701",
+                        "kind": "pie",
+                        "prob": "0.009040",
+                        "delay": "104544422us",
+                        "avg_dq_rate": "28040"
+                    },
+                    {
+                        "timestamp": "1616942930.116101631",
+                        "kind": "pie",
+                        "prob": "0.860050",
+                        "delay": "72666899us",
+                        "avg_dq_rate": "9706"
+                    },
+                    {
+                        "timestamp": "1616942930.327742488",
+                        "kind": "pie",
+                        "prob": "0.496332",
+                        "delay": "38151666us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942930.536021026",
+                        "kind": "pie",
+                        "prob": "0.443067",
+                        "delay": "39670272us",
+                        "avg_dq_rate": "10335"
+                    },
+                    {
+                        "timestamp": "1616942930.742709254",
+                        "kind": "pie",
+                        "prob": "0.307312",
+                        "delay": "32474252us",
+                        "avg_dq_rate": "7234"
+                    },
+                    {
+                        "timestamp": "1616942930.979107118",
+                        "kind": "pie",
+                        "prob": "0.656731",
+                        "delay": "33916987us",
+                        "avg_dq_rate": "14020"
+                    },
+                    {
+                        "timestamp": "1616942931.211732941",
+                        "kind": "pie",
+                        "prob": "0.094602",
+                        "delay": "43505545us",
+                        "avg_dq_rate": "23726"
+                    },
+                    {
+                        "timestamp": "1616942931.431958013",
+                        "kind": "pie",
+                        "prob": "0.007558",
+                        "delay": "67242747us",
+                        "avg_dq_rate": "24805"
+                    },
+                    {
+                        "timestamp": "1616942931.643901523",
+                        "kind": "pie",
+                        "prob": "0.056904",
+                        "delay": "63808577us",
+                        "avg_dq_rate": "19412"
+                    },
+                    {
+                        "timestamp": "1616942931.855397679",
+                        "kind": "pie",
+                        "prob": "0.275853",
+                        "delay": "93641265us",
+                        "avg_dq_rate": "22648"
+                    },
+                    {
+                        "timestamp": "1616942932.061743979",
+                        "kind": "pie",
+                        "prob": "0.472277",
+                        "delay": "105768586us",
+                        "avg_dq_rate": "21569"
+                    },
+                    {
+                        "timestamp": "1616942932.278412683",
+                        "kind": "pie",
+                        "prob": "0.807099",
+                        "delay": "85355551us",
+                        "avg_dq_rate": "10335"
+                    },
+                    {
+                        "timestamp": "1616942932.497897589",
+                        "kind": "pie",
+                        "prob": "0.458609",
+                        "delay": "34235152us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942932.708879029",
+                        "kind": "pie",
+                        "prob": "0.816121",
+                        "delay": "23371863us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942932.920002973",
+                        "kind": "pie",
+                        "prob": "0.732398",
+                        "delay": "22646791us",
+                        "avg_dq_rate": "9706"
+                    },
+                    {
+                        "timestamp": "1616942933.129771062",
+                        "kind": "pie",
+                        "prob": "0.121579",
+                        "delay": "24264869us",
+                        "avg_dq_rate": "12941"
+                    },
+                    {
+                        "timestamp": "1616942933.338459244",
+                        "kind": "pie",
+                        "prob": "0.208210",
+                        "delay": "24123470us",
+                        "avg_dq_rate": "10784"
+                    },
+                    {
+                        "timestamp": "1616942933.546112215",
+                        "kind": "pie",
+                        "prob": "0.698328",
+                        "delay": "27349544us",
+                        "avg_dq_rate": "17255"
+                    },
+                    {
+                        "timestamp": "1616942933.759814757",
+                        "kind": "pie",
+                        "prob": "0.618236",
+                        "delay": "37770449us",
+                        "avg_dq_rate": "25883"
+                    },
+                    {
+                        "timestamp": "1616942933.974939735",
+                        "kind": "pie",
+                        "prob": "0.572083",
+                        "delay": "50959877us",
+                        "avg_dq_rate": "24805"
+                    },
+                    {
+                        "timestamp": "1616942934.205686462",
+                        "kind": "pie",
+                        "prob": "0.176811",
+                        "delay": "27752202us",
+                        "avg_dq_rate": "9706"
+                    },
+                    {
+                        "timestamp": "1616942934.425196858",
+                        "kind": "pie",
+                        "prob": "0.180052",
+                        "delay": "13693099us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942934.630324392",
+                        "kind": "pie",
+                        "prob": "0.687942",
+                        "delay": "14179443us",
+                        "avg_dq_rate": "10335"
+                    },
+                    {
+                        "timestamp": "1616942934.839322294",
+                        "kind": "pie",
+                        "prob": "0.127976",
+                        "delay": "19741860us",
+                        "avg_dq_rate": "19412"
+                    },
+                    {
+                        "timestamp": "1616942935.050110816",
+                        "kind": "pie",
+                        "prob": "0.671718",
+                        "delay": "27984838us",
+                        "avg_dq_rate": "25883"
+                    },
+                    {
+                        "timestamp": "1616942935.256620097",
+                        "kind": "pie",
+                        "prob": "0.739205",
+                        "delay": "38193288us",
+                        "avg_dq_rate": "28040"
+                    },
+                    {
+                        "timestamp": "1616942935.463990543",
+                        "kind": "pie",
+                        "prob": "0.801962",
+                        "delay": "96892752us",
+                        "avg_dq_rate": "37747"
+                    },
+                    {
+                        "timestamp": "1616942935.674117722",
+                        "kind": "pie",
+                        "prob": "0.242606",
+                        "delay": "94011259us",
+                        "avg_dq_rate": "20491"
+                    },
+                    {
+                        "timestamp": "1616942935.884247711",
+                        "kind": "pie",
+                        "prob": "0.851538",
+                        "delay": "30445670us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942936.091711407",
+                        "kind": "pie",
+                        "prob": "0.461522",
+                        "delay": "21392588us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942936.300348127",
+                        "kind": "pie",
+                        "prob": "0.911488",
+                        "delay": "18853390us",
+                        "avg_dq_rate": "8627"
+                    },
+                    {
+                        "timestamp": "1616942936.504961628",
+                        "kind": "pie",
+                        "prob": "0.880982",
+                        "delay": "25092878us",
+                        "avg_dq_rate": "19412"
+                    },
+                    {
+                        "timestamp": "1616942936.708874705",
+                        "kind": "pie",
+                        "prob": "0.857337",
+                        "delay": "31729367us",
+                        "avg_dq_rate": "23796"
+                    },
+                    {
+                        "timestamp": "1616942936.915891882",
+                        "kind": "pie",
+                        "prob": "0.178703",
+                        "delay": "43964368us",
+                        "avg_dq_rate": "30267"
+                    },
+                    {
+                        "timestamp": "1616942937.125051388",
+                        "kind": "pie",
+                        "prob": "0.703808",
+                        "delay": "35821947us",
+                        "avg_dq_rate": "21639"
+                    },
+                    {
+                        "timestamp": "1616942937.333568798",
+                        "kind": "pie",
+                        "prob": "0.387148",
+                        "delay": "26790052us",
+                        "avg_dq_rate": "9302"
+                    },
+                    {
+                        "timestamp": "1616942937.539718411",
+                        "kind": "pie",
+                        "prob": "0.874389",
+                        "delay": "10325299us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942937.760733059",
+                        "kind": "pie",
+                        "prob": "0.082474",
+                        "delay": "5907423us",
+                        "avg_dq_rate": "6201"
+                    },
+                    {
+                        "timestamp": "1616942937.988538933",
+                        "kind": "pie",
+                        "prob": "0.513721",
+                        "delay": "2965516us",
+                        "avg_dq_rate": "14469"
+                    },
+                    {
+                        "timestamp": "1616942938.194317831",
+                        "kind": "pie",
+                        "prob": "0.895287",
+                        "delay": "3424624us",
+                        "avg_dq_rate": "19412"
+                    },
+                    {
+                        "timestamp": "1616942938.398516046",
+                        "kind": "pie",
+                        "prob": "0.771220",
+                        "delay": "10279160us",
+                        "avg_dq_rate": "28040"
+                    },
+                    {
+                        "timestamp": "1616942938.601738366",
+                        "kind": "pie",
+                        "prob": "0.450900",
+                        "delay": "27865342us",
+                        "avg_dq_rate": "36668"
+                    },
+                    {
+                        "timestamp": "1616942938.805948089",
+                        "kind": "pie",
+                        "prob": "0.706510",
+                        "delay": "42416386us",
+                        "avg_dq_rate": "36668"
+                    },
+                    {
+                        "timestamp": "1616942939.020478899",
+                        "kind": "pie",
+                        "prob": "0.337706",
+                        "delay": "35945623us",
+                        "avg_dq_rate": "26962"
+                    },
+                    {
+                        "timestamp": "1616942939.224484733",
+                        "kind": "pie",
+                        "prob": "0.776110",
+                        "delay": "68563829us",
+                        "avg_dq_rate": "31276"
+                    },
+                    {
+                        "timestamp": "1616942939.431287993",
+                        "kind": "pie",
+                        "prob": "0.812507",
+                        "delay": "138927402us",
+                        "avg_dq_rate": "36668"
+                    },
+                    {
+                        "timestamp": "1616942939.636726250",
+                        "kind": "pie",
+                        "prob": "0.497570",
+                        "delay": "155442548us",
+                        "avg_dq_rate": "26962"
+                    },
+                    {
+                        "timestamp": "1616942939.839868010",
+                        "kind": "pie",
+                        "prob": "0.812283",
+                        "delay": "173957894us",
+                        "avg_dq_rate": "23726"
+                    },
+                    {
+                        "timestamp": "1616942940.042942632",
+                        "kind": "pie",
+                        "prob": "0.861156",
+                        "delay": "78167537us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942940.248544042",
+                        "kind": "pie",
+                        "prob": "0.938613",
+                        "delay": "38150060us",
+                        "avg_dq_rate": "4313"
+                    },
+                    {
+                        "timestamp": "1616942940.455002287",
+                        "kind": "pie",
+                        "prob": "0.051654",
+                        "delay": "29025294us",
+                        "avg_dq_rate": "4313"
+                    },
+                    {
+                        "timestamp": "1616942940.658009901",
+                        "kind": "pie",
+                        "prob": "0.119310",
+                        "delay": "26986095us",
+                        "avg_dq_rate": "8627"
+                    },
+                    {
+                        "timestamp": "1616942940.861124239",
+                        "kind": "pie",
+                        "prob": "0.242488",
+                        "delay": "28462477us",
+                        "avg_dq_rate": "14020"
+                    },
+                    {
+                        "timestamp": "1616942941.066254141",
+                        "kind": "pie",
+                        "prob": "0.026364",
+                        "delay": "34751280us",
+                        "avg_dq_rate": "20491"
+                    },
+                    {
+                        "timestamp": "1616942941.271746998",
+                        "kind": "pie",
+                        "prob": "0.323832",
+                        "delay": "23821812us",
+                        "avg_dq_rate": "8268"
+                    },
+                    {
+                        "timestamp": "1616942941.478246179",
+                        "kind": "pie",
+                        "prob": "0.148352",
+                        "delay": "33114674us",
+                        "avg_dq_rate": "20491"
+                    },
+                    {
+                        "timestamp": "1616942941.682174471",
+                        "kind": "pie",
+                        "prob": "0.452282",
+                        "delay": "29958328us",
+                        "avg_dq_rate": "14020"
+                    },
+                    {
+                        "timestamp": "1616942941.886939298",
+                        "kind": "pie",
+                        "prob": "0.059709",
+                        "delay": "25252526us",
+                        "avg_dq_rate": "11863"
+                    },
+                    {
+                        "timestamp": "1616942942.091255405",
+                        "kind": "pie",
+                        "prob": "0.485111",
+                        "delay": "31760449us",
+                        "avg_dq_rate": "19412"
+                    },
+                    {
+                        "timestamp": "1616942942.300842061",
+                        "kind": "pie",
+                        "prob": "0.587146",
+                        "delay": "43990772us",
+                        "avg_dq_rate": "28040"
+                    },
+                    {
+                        "timestamp": "1616942942.504643561",
+                        "kind": "pie",
+                        "prob": "0.718747",
+                        "delay": "84187534us",
+                        "avg_dq_rate": "32354"
+                    },
+                    {
+                        "timestamp": "1616942942.709604657",
+                        "kind": "pie",
+                        "prob": "0.015821",
+                        "delay": "91888978us",
+                        "avg_dq_rate": "23796"
+                    },
+                    {
+                        "timestamp": "1616942942.912898457",
+                        "kind": "pie",
+                        "prob": "0.760170",
+                        "delay": "32936385us",
+                        "avg_dq_rate": "6201"
+                    },
+                    {
+                        "timestamp": "1616942943.264676222",
+                        "kind": "pie",
+                        "prob": "0.506084",
+                        "delay": "22454320us",
+                        "avg_dq_rate": "2067"
+                    },
+                    {
+                        "timestamp": "1616942943.485495852",
+                        "kind": "pie",
+                        "prob": "0.778657",
+                        "delay": "22935326us",
+                        "avg_dq_rate": "10335"
+                    },
+                    {
+                        "timestamp": "1616942943.691451282",
+                        "kind": "pie",
+                        "prob": "0.595830",
+                        "delay": "29334020us",
+                        "avg_dq_rate": "19412"
+                    },
+                    {
+                        "timestamp": "1616942943.897593586",
+                        "kind": "pie",
+                        "prob": "0.691717",
+                        "delay": "33820066us",
+                        "avg_dq_rate": "20491"
+                    },
+                    {
+                        "timestamp": "1616942944.102592702",
+                        "kind": "pie",
+                        "prob": "0.273894",
+                        "delay": "36930937us",
+                        "avg_dq_rate": "20491"
+                    },
+                    {
+                        "timestamp": "1616942944.312434223",
+                        "kind": "pie",
+                        "prob": "0.816303",
+                        "delay": "32225104us",
+                        "avg_dq_rate": "8627"
+                    },
+                    {
+                        "timestamp": "1616942944.520787178",
+                        "kind": "pie",
+                        "prob": "0.527974",
+                        "delay": "24336671us",
+                        "avg_dq_rate": "6470"
+                    },
+                    {
+                        "timestamp": "1616942944.734186732",
+                        "kind": "pie",
+                        "prob": "0.357075",
+                        "delay": "12620160us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942944.956968318",
+                        "kind": "pie",
+                        "prob": "0.313452",
+                        "delay": "8813815us",
+                        "avg_dq_rate": "6470"
+                    },
+                    {
+                        "timestamp": "1616942945.170346185",
+                        "kind": "pie",
+                        "prob": "0.615721",
+                        "delay": "11717204us",
+                        "avg_dq_rate": "15098"
+                    },
+                    {
+                        "timestamp": "1616942945.385856154",
+                        "kind": "pie",
+                        "prob": "0.772657",
+                        "delay": "20690606us",
+                        "avg_dq_rate": "22648"
+                    },
+                    {
+                        "timestamp": "1616942945.606499215",
+                        "kind": "pie",
+                        "prob": "0.540423",
+                        "delay": "31611484us",
+                        "avg_dq_rate": "28040"
+                    },
+                    {
+                        "timestamp": "1616942945.817598512",
+                        "kind": "pie",
+                        "prob": "0.589647",
+                        "delay": "38485927us",
+                        "avg_dq_rate": "23726"
+                    },
+                    {
+                        "timestamp": "1616942946.033058175",
+                        "kind": "pie",
+                        "prob": "0.519681",
+                        "delay": "38129346us",
+                        "avg_dq_rate": "17255"
+                    },
+                    {
+                        "timestamp": "1616942946.273209889",
+                        "kind": "pie",
+                        "prob": "0.362003",
+                        "delay": "42755056us",
+                        "avg_dq_rate": "16177"
+                    },
+                    {
+                        "timestamp": "1616942946.479575209",
+                        "kind": "pie",
+                        "prob": "0.603858",
+                        "delay": "41834189us",
+                        "avg_dq_rate": "17255"
+                    },
+                    {
+                        "timestamp": "1616942946.684028534",
+                        "kind": "pie",
+                        "prob": "0.046612",
+                        "delay": "40023470us",
+                        "avg_dq_rate": "16177"
+                    },
+                    {
+                        "timestamp": "1616942946.891362987",
+                        "kind": "pie",
+                        "prob": "0.350200",
+                        "delay": "38739253us",
+                        "avg_dq_rate": "17255"
+                    },
+                    {
+                        "timestamp": "1616942947.103741432",
+                        "kind": "pie",
+                        "prob": "0.255916",
+                        "delay": "27124489us",
+                        "avg_dq_rate": "6470"
+                    },
+                    {
+                        "timestamp": "1616942947.309684774",
+                        "kind": "pie",
+                        "prob": "0.071148",
+                        "delay": "28129795us",
+                        "avg_dq_rate": "12941"
+                    },
+                    {
+                        "timestamp": "1616942947.515960464",
+                        "kind": "pie",
+                        "prob": "0.386219",
+                        "delay": "21318449us",
+                        "avg_dq_rate": "7549"
+                    },
+                    {
+                        "timestamp": "1616942947.727116454",
+                        "kind": "pie",
+                        "prob": "0.760593",
+                        "delay": "22888577us",
+                        "avg_dq_rate": "14090"
+                    },
+                    {
+                        "timestamp": "1616942947.931867668",
+                        "kind": "pie",
+                        "prob": "0.403473",
+                        "delay": "30552517us",
+                        "avg_dq_rate": "21639"
+                    },
+                    {
+                        "timestamp": "1616942948.140921701",
+                        "kind": "pie",
+                        "prob": "0.178482",
+                        "delay": "41624784us",
+                        "avg_dq_rate": "27032"
+                    },
+                    {
+                        "timestamp": "1616942948.345168439",
+                        "kind": "pie",
+                        "prob": "0.455170",
+                        "delay": "52798605us",
+                        "avg_dq_rate": "21639"
+                    },
+                    {
+                        "timestamp": "1616942948.550635240",
+                        "kind": "pie",
+                        "prob": "0.164665",
+                        "delay": "82425032us",
+                        "avg_dq_rate": "23726"
+                    },
+                    {
+                        "timestamp": "1616942948.759534163",
+                        "kind": "pie",
+                        "prob": "0.729566",
+                        "delay": "41158350us",
+                        "avg_dq_rate": "8627"
+                    },
+                    {
+                        "timestamp": "1616942948.979587922",
+                        "kind": "pie",
+                        "prob": "0.348433",
+                        "delay": "29983120us",
+                        "avg_dq_rate": "4313"
+                    },
+                    {
+                        "timestamp": "1616942949.189065987",
+                        "kind": "pie",
+                        "prob": "0.910392",
+                        "delay": "27950582us",
+                        "avg_dq_rate": "9706"
+                    },
+                    {
+                        "timestamp": "1616942949.394874254",
+                        "kind": "pie",
+                        "prob": "0.162298",
+                        "delay": "17746127us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942949.601433794",
+                        "kind": "pie",
+                        "prob": "0.354464",
+                        "delay": "10514763us",
+                        "avg_dq_rate": "4313"
+                    },
+                    {
+                        "timestamp": "1616942949.806459758",
+                        "kind": "pie",
+                        "prob": "0.429810",
+                        "delay": "2640954us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942950.009856001",
+                        "kind": "pie",
+                        "prob": "0.866571",
+                        "delay": "3191330us",
+                        "avg_dq_rate": "12402"
+                    },
+                    {
+                        "timestamp": "1616942950.214526061",
+                        "kind": "pie",
+                        "prob": "0.256184",
+                        "delay": "7115304us",
+                        "avg_dq_rate": "21569"
+                    },
+                    {
+                        "timestamp": "1616942950.418188952",
+                        "kind": "pie",
+                        "prob": "0.150485",
+                        "delay": "18845620us",
+                        "avg_dq_rate": "28040"
+                    },
+                    {
+                        "timestamp": "1616942950.621510461",
+                        "kind": "pie",
+                        "prob": "0.042086",
+                        "delay": "34043349us",
+                        "avg_dq_rate": "35590"
+                    },
+                    {
+                        "timestamp": "1616942950.825993533",
+                        "kind": "pie",
+                        "prob": "0.024280",
+                        "delay": "75254518us",
+                        "avg_dq_rate": "38825"
+                    },
+                    {
+                        "timestamp": "1616942951.030292749",
+                        "kind": "pie",
+                        "prob": "0.746636",
+                        "delay": "145328369us",
+                        "avg_dq_rate": "39904"
+                    },
+                    {
+                        "timestamp": "1616942951.233149782",
+                        "kind": "pie",
+                        "prob": "0.397561",
+                        "delay": "93790978us",
+                        "avg_dq_rate": "12941"
+                    },
+                    {
+                        "timestamp": "1616942951.437636763",
+                        "kind": "pie",
+                        "prob": "0.997495",
+                        "delay": "34278088us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942951.643405470",
+                        "kind": "pie",
+                        "prob": "0.689666",
+                        "delay": "23794315us",
+                        "avg_dq_rate": "2156"
+                    },
+                    {
+                        "timestamp": "1616942951.847188904",
+                        "kind": "pie",
+                        "prob": "0.542600",
+                        "delay": "12620027us",
+                        "avg_dq_rate": "0"
+                    },
+                    {
+                        "timestamp": "1616942952.051744271",
+                        "kind": "pie",
+                        "prob": "0.081793",
+                        "delay": "11455941us",
+                        "avg_dq_rate": "8627"
+                    },
+                    {
+                        "timestamp": "1616942952.258567664",
+                        "kind": "pie",
+                        "prob": "0.444409",
+                        "delay": "13265973us",
+                        "avg_dq_rate": "15098"
+                    },
+                    {
+                        "timestamp": "1616942952.467339305",
+                        "kind": "pie",
+                        "prob": "0.964310",
+                        "delay": "20787156us",
+                        "avg_dq_rate": "22648"
+                    },
+                    {
+                        "timestamp": "1616942952.672855536",
+                        "kind": "pie",
+                        "prob": "0.199768",
+                        "delay": "29249213us",
+                        "avg_dq_rate": "24805"
+                    },
+                    {
+                        "timestamp": "1616942952.878415039",
+                        "kind": "pie",
+                        "prob": "0.810633",
+                        "delay": "48541849us",
+                        "avg_dq_rate": "34511"
+                    },
+                    {
+                        "timestamp": "1616942953.087124019",
+                        "kind": "pie",
+                        "prob": "0.117111",
+                        "delay": "38173236us",
+                        "avg_dq_rate": "17255"
+                    },
+                    {
+                        "timestamp": "1616942953.294097307",
+                        "kind": "pie",
+                        "prob": "0.808115",
+                        "delay": "35591844us",
+                        "avg_dq_rate": "14020"
+                    },
+                    {
+                        "timestamp": "1616942953.499075826",
+                        "kind": "pie",
+                        "prob": "0.619892",
+                        "delay": "42560536us",
+                        "avg_dq_rate": "22648"
+                    },
+                    {
+                        "timestamp": "1616942953.706039075",
+                        "kind": "pie",
+                        "prob": "0.097303",
+                        "delay": "82757857us",
+                        "avg_dq_rate": "29119"
+                    }
+                ]
+            }
+        }
+    ]
+}
