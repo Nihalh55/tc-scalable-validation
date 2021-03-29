@@ -1,0 +1,2812 @@
+{
+    "left-node-1": [
+        {
+            "10.0.1.3": {
+                "34547": [
+                    {
+                        "meta": true,
+                        "start_time": "0",
+                        "stop_time": "20"
+                    },
+                    {
+                        "timestamp": "1616945270.761818296",
+                        "cwnd": "10",
+                        "rtt": "120.122",
+                        "dev_rtt": "60.061",
+                        "rto": "364",
+                        "pacing_rate": "1.9"
+                    },
+                    {
+                        "timestamp": "1616945270.973633412",
+                        "cwnd": "40",
+                        "rtt": "132.73",
+                        "dev_rtt": "7.04",
+                        "rto": "364",
+                        "delivery_rate": "1.7",
+                        "pacing_rate": "7.0"
+                    },
+                    {
+                        "timestamp": "1616945271.185319950",
+                        "cwnd": "80",
+                        "rtt": "150.262",
+                        "dev_rtt": "6.609",
+                        "rto": "376",
+                        "delivery_rate": "3.0",
+                        "pacing_rate": "12.3"
+                    },
+                    {
+                        "timestamp": "1616945271.392755831",
+                        "cwnd": "160",
+                        "rtt": "188.889",
+                        "dev_rtt": "6.238",
+                        "rto": "408",
+                        "delivery_rate": "4.8",
+                        "pacing_rate": "19.6"
+                    },
+                    {
+                        "timestamp": "1616945271.604630491",
+                        "cwnd": "316",
+                        "rtt": "285.535",
+                        "dev_rtt": "4.903",
+                        "rto": "500",
+                        "delivery_rate": "6.3",
+                        "pacing_rate": "25.6"
+                    },
+                    {
+                        "timestamp": "1616945271.814215592",
+                        "cwnd": "314",
+                        "rtt": "285.535",
+                        "dev_rtt": "4.903",
+                        "ssthresh": "158",
+                        "rto": "500",
+                        "delivery_rate": "6.3",
+                        "pacing_rate": "25.6"
+                    },
+                    {
+                        "timestamp": "1616945272.019758057",
+                        "cwnd": "201",
+                        "rtt": "470.719",
+                        "dev_rtt": "4.61",
+                        "ssthresh": "158",
+                        "rto": "752",
+                        "delivery_rate": "5.4",
+                        "pacing_rate": "10.6"
+                    },
+                    {
+                        "timestamp": "1616945272.235080585",
+                        "cwnd": "65",
+                        "rtt": "378.724",
+                        "dev_rtt": "34.485",
+                        "ssthresh": "158",
+                        "rto": "660",
+                        "delivery_rate": "1.2",
+                        "pacing_rate": "25.0"
+                    },
+                    {
+                        "timestamp": "1616945272.442707737",
+                        "cwnd": "153",
+                        "rtt": "128.172",
+                        "dev_rtt": "13.055",
+                        "ssthresh": "158",
+                        "rto": "408",
+                        "delivery_rate": "4.0",
+                        "pacing_rate": "39.9"
+                    },
+                    {
+                        "timestamp": "1616945272.666654244",
+                        "cwnd": "77",
+                        "rtt": "157.973",
+                        "dev_rtt": "20.2",
+                        "ssthresh": "158",
+                        "rto": "440",
+                        "delivery_rate": "4.4",
+                        "pacing_rate": "60.1"
+                    },
+                    {
+                        "timestamp": "1616945272.877806994",
+                        "cwnd": "73",
+                        "rtt": "122.762",
+                        "dev_rtt": "2.433",
+                        "ssthresh": "79",
+                        "rto": "404",
+                        "delivery_rate": "6.9",
+                        "pacing_rate": "36.9"
+                    },
+                    {
+                        "timestamp": "1616945273.087962880",
+                        "cwnd": "31",
+                        "rtt": "121.252",
+                        "dev_rtt": "0.172",
+                        "ssthresh": "39",
+                        "rto": "396",
+                        "delivery_rate": "3.2",
+                        "pacing_rate": "14.4"
+                    },
+                    {
+                        "timestamp": "1616945273.308694098",
+                        "cwnd": "18",
+                        "rtt": "122.027",
+                        "dev_rtt": "1.529",
+                        "ssthresh": "19",
+                        "rto": "380",
+                        "delivery_rate": "2.3",
+                        "pacing_rate": "3.4"
+                    },
+                    {
+                        "timestamp": "1616945273.512815775",
+                        "cwnd": "19",
+                        "rtt": "123.935",
+                        "dev_rtt": "4.955",
+                        "ssthresh": "19",
+                        "rto": "368",
+                        "delivery_rate": "1.8",
+                        "pacing_rate": "2.1"
+                    },
+                    {
+                        "timestamp": "1616945273.732400242",
+                        "cwnd": "21",
+                        "rtt": "120.7",
+                        "dev_rtt": "0.813",
+                        "ssthresh": "19",
+                        "rto": "344",
+                        "delivery_rate": "1.9",
+                        "pacing_rate": "2.4"
+                    },
+                    {
+                        "timestamp": "1616945273.964438386",
+                        "cwnd": "23",
+                        "rtt": "121.771",
+                        "dev_rtt": "2.98",
+                        "ssthresh": "19",
+                        "rto": "336",
+                        "delivery_rate": "2.0",
+                        "pacing_rate": "2.6"
+                    },
+                    {
+                        "timestamp": "1616945274.175927092",
+                        "cwnd": "25",
+                        "rtt": "120.448",
+                        "dev_rtt": "0.361",
+                        "ssthresh": "19",
+                        "rto": "328",
+                        "delivery_rate": "2.3",
+                        "pacing_rate": "2.9"
+                    },
+                    {
+                        "timestamp": "1616945274.390642927",
+                        "cwnd": "27",
+                        "rtt": "120.574",
+                        "dev_rtt": "0.492",
+                        "ssthresh": "19",
+                        "rto": "328",
+                        "delivery_rate": "2.5",
+                        "pacing_rate": "3.1"
+                    },
+                    {
+                        "timestamp": "1616945274.603598757",
+                        "cwnd": "28",
+                        "rtt": "121.264",
+                        "dev_rtt": "1.341",
+                        "ssthresh": "19",
+                        "rto": "328",
+                        "delivery_rate": "2.6",
+                        "pacing_rate": "3.2"
+                    },
+                    {
+                        "timestamp": "1616945274.813662675",
+                        "cwnd": "31",
+                        "rtt": "120.863",
+                        "dev_rtt": "0.4",
+                        "ssthresh": "19",
+                        "rto": "324",
+                        "delivery_rate": "2.8",
+                        "pacing_rate": "3.6"
+                    },
+                    {
+                        "timestamp": "1616945275.097471444",
+                        "cwnd": "32",
+                        "rtt": "121.671",
+                        "dev_rtt": "2.714",
+                        "ssthresh": "19",
+                        "rto": "324",
+                        "delivery_rate": "3.0",
+                        "pacing_rate": "3.7"
+                    },
+                    {
+                        "timestamp": "1616945275.321082162",
+                        "cwnd": "34",
+                        "rtt": "120.493",
+                        "dev_rtt": "0.289",
+                        "ssthresh": "19",
+                        "rto": "324",
+                        "delivery_rate": "3.2",
+                        "pacing_rate": "3.9"
+                    },
+                    {
+                        "timestamp": "1616945275.531886164",
+                        "cwnd": "36",
+                        "rtt": "120.646",
+                        "dev_rtt": "0.449",
+                        "ssthresh": "19",
+                        "rto": "324",
+                        "delivery_rate": "3.3",
+                        "pacing_rate": "4.1"
+                    },
+                    {
+                        "timestamp": "1616945275.742092052",
+                        "cwnd": "38",
+                        "rtt": "120.64",
+                        "dev_rtt": "0.428",
+                        "ssthresh": "19",
+                        "rto": "324",
+                        "delivery_rate": "3.5",
+                        "pacing_rate": "4.4"
+                    },
+                    {
+                        "timestamp": "1616945275.953061315",
+                        "cwnd": "39",
+                        "rtt": "120.528",
+                        "dev_rtt": "0.243",
+                        "ssthresh": "19",
+                        "rto": "324",
+                        "delivery_rate": "3.6",
+                        "pacing_rate": "4.5"
+                    },
+                    {
+                        "timestamp": "1616945276.164097096",
+                        "cwnd": "41",
+                        "rtt": "120.451",
+                        "dev_rtt": "0.223",
+                        "ssthresh": "19",
+                        "rto": "324",
+                        "delivery_rate": "3.8",
+                        "pacing_rate": "4.7"
+                    },
+                    {
+                        "timestamp": "1616945276.374141101",
+                        "cwnd": "43",
+                        "rtt": "120.345",
+                        "dev_rtt": "0.18",
+                        "ssthresh": "19",
+                        "rto": "324",
+                        "delivery_rate": "4.0",
+                        "pacing_rate": "5.0"
+                    },
+                    {
+                        "timestamp": "1616945276.588274205",
+                        "cwnd": "44",
+                        "rtt": "121.32",
+                        "dev_rtt": "1.475",
+                        "ssthresh": "19",
+                        "rto": "324",
+                        "delivery_rate": "4.0",
+                        "pacing_rate": "5.0"
+                    },
+                    {
+                        "timestamp": "1616945276.804574293",
+                        "cwnd": "46",
+                        "rtt": "121.096",
+                        "dev_rtt": "0.437",
+                        "ssthresh": "19",
+                        "rto": "324",
+                        "delivery_rate": "4.3",
+                        "pacing_rate": "5.3"
+                    },
+                    {
+                        "timestamp": "1616945277.023355672",
+                        "cwnd": "48",
+                        "rtt": "120.897",
+                        "dev_rtt": "0.388",
+                        "ssthresh": "19",
+                        "rto": "324",
+                        "delivery_rate": "4.5",
+                        "pacing_rate": "5.5"
+                    },
+                    {
+                        "timestamp": "1616945277.241129001",
+                        "cwnd": "50",
+                        "rtt": "120.848",
+                        "dev_rtt": "0.34",
+                        "ssthresh": "19",
+                        "rto": "324",
+                        "delivery_rate": "4.7",
+                        "pacing_rate": "5.8"
+                    },
+                    {
+                        "timestamp": "1616945277.453042465",
+                        "cwnd": "51",
+                        "rtt": "120.493",
+                        "dev_rtt": "0.149",
+                        "ssthresh": "19",
+                        "rto": "324",
+                        "delivery_rate": "4.6",
+                        "pacing_rate": "5.9"
+                    },
+                    {
+                        "timestamp": "1616945277.662214922",
+                        "cwnd": "53",
+                        "rtt": "120.632",
+                        "dev_rtt": "0.427",
+                        "ssthresh": "19",
+                        "rto": "324",
+                        "delivery_rate": "5.0",
+                        "pacing_rate": "6.1"
+                    },
+                    {
+                        "timestamp": "1616945277.887927037",
+                        "cwnd": "55",
+                        "rtt": "121.201",
+                        "dev_rtt": "0.815",
+                        "ssthresh": "19",
+                        "rto": "324",
+                        "delivery_rate": "5.1",
+                        "pacing_rate": "6.3"
+                    },
+                    {
+                        "timestamp": "1616945278.100952909",
+                        "cwnd": "57",
+                        "rtt": "122.341",
+                        "dev_rtt": "1.281",
+                        "ssthresh": "19",
+                        "rto": "324",
+                        "delivery_rate": "5.2",
+                        "pacing_rate": "6.5"
+                    },
+                    {
+                        "timestamp": "1616945278.308879349",
+                        "cwnd": "58",
+                        "rtt": "124.301",
+                        "dev_rtt": "0.892",
+                        "ssthresh": "19",
+                        "rto": "328",
+                        "delivery_rate": "5.2",
+                        "pacing_rate": "6.5"
+                    },
+                    {
+                        "timestamp": "1616945278.518597600",
+                        "cwnd": "60",
+                        "rtt": "126.994",
+                        "dev_rtt": "0.384",
+                        "ssthresh": "19",
+                        "rto": "328",
+                        "delivery_rate": "5.4",
+                        "pacing_rate": "6.6"
+                    },
+                    {
+                        "timestamp": "1616945278.741950252",
+                        "cwnd": "62",
+                        "rtt": "129.674",
+                        "dev_rtt": "0.444",
+                        "ssthresh": "19",
+                        "rto": "332",
+                        "delivery_rate": "5.4",
+                        "pacing_rate": "6.6"
+                    },
+                    {
+                        "timestamp": "1616945278.949737195",
+                        "cwnd": "63",
+                        "rtt": "133.27",
+                        "dev_rtt": "0.183",
+                        "ssthresh": "19",
+                        "rto": "336",
+                        "delivery_rate": "5.3",
+                        "pacing_rate": "6.6"
+                    },
+                    {
+                        "timestamp": "1616945279.161186532",
+                        "cwnd": "65",
+                        "rtt": "136.769",
+                        "dev_rtt": "0.92",
+                        "ssthresh": "19",
+                        "rto": "340",
+                        "delivery_rate": "5.4",
+                        "pacing_rate": "6.6"
+                    },
+                    {
+                        "timestamp": "1616945279.371605854",
+                        "cwnd": "66",
+                        "rtt": "139.313",
+                        "dev_rtt": "1.046",
+                        "ssthresh": "19",
+                        "rto": "340",
+                        "delivery_rate": "5.3",
+                        "pacing_rate": "6.6"
+                    },
+                    {
+                        "timestamp": "1616945279.584668438",
+                        "cwnd": "68",
+                        "rtt": "141.578",
+                        "dev_rtt": "0.291",
+                        "ssthresh": "19",
+                        "rto": "344",
+                        "delivery_rate": "5.3",
+                        "pacing_rate": "6.7"
+                    },
+                    {
+                        "timestamp": "1616945279.792831282",
+                        "cwnd": "69",
+                        "rtt": "144.596",
+                        "dev_rtt": "0.343",
+                        "ssthresh": "19",
+                        "rto": "348",
+                        "delivery_rate": "5.4",
+                        "pacing_rate": "6.6"
+                    },
+                    {
+                        "timestamp": "1616945280.003146956",
+                        "cwnd": "70",
+                        "rtt": "147.121",
+                        "dev_rtt": "0.389",
+                        "ssthresh": "19",
+                        "rto": "348",
+                        "delivery_rate": "5.4",
+                        "pacing_rate": "6.6"
+                    },
+                    {
+                        "timestamp": "1616945280.211169453",
+                        "cwnd": "72",
+                        "rtt": "149.831",
+                        "dev_rtt": "1.032",
+                        "ssthresh": "19",
+                        "rto": "352",
+                        "delivery_rate": "5.4",
+                        "pacing_rate": "6.7"
+                    },
+                    {
+                        "timestamp": "1616945280.421041237",
+                        "cwnd": "73",
+                        "rtt": "151.31",
+                        "dev_rtt": "0.468",
+                        "ssthresh": "19",
+                        "rto": "352",
+                        "delivery_rate": "5.4",
+                        "pacing_rate": "6.7"
+                    },
+                    {
+                        "timestamp": "1616945280.628006952",
+                        "cwnd": "65",
+                        "rtt": "153.659",
+                        "dev_rtt": "0.235",
+                        "ssthresh": "37",
+                        "rto": "356",
+                        "delivery_rate": "5.3",
+                        "pacing_rate": "7.3"
+                    },
+                    {
+                        "timestamp": "1616945280.834300755",
+                        "cwnd": "37",
+                        "rtt": "153.767",
+                        "dev_rtt": "6.347",
+                        "ssthresh": "37",
+                        "rto": "356",
+                        "delivery_rate": "3.9",
+                        "pacing_rate": "3.3"
+                    },
+                    {
+                        "timestamp": "1616945281.039429014",
+                        "cwnd": "18",
+                        "rtt": "135.114",
+                        "dev_rtt": "2.265",
+                        "ssthresh": "18",
+                        "rto": "336",
+                        "delivery_rate": "2.4",
+                        "pacing_rate": "1.9"
+                    },
+                    {
+                        "timestamp": "1616945281.247612856",
+                        "cwnd": "20",
+                        "rtt": "128.279",
+                        "dev_rtt": "3.914",
+                        "ssthresh": "18",
+                        "rto": "332",
+                        "delivery_rate": "1.7",
+                        "pacing_rate": "2.2"
+                    },
+                    {
+                        "timestamp": "1616945281.451762496",
+                        "cwnd": "21",
+                        "rtt": "130.392",
+                        "dev_rtt": "2.948",
+                        "ssthresh": "18",
+                        "rto": "332",
+                        "delivery_rate": "1.7",
+                        "pacing_rate": "2.2"
+                    },
+                    {
+                        "timestamp": "1616945281.656139089",
+                        "cwnd": "23",
+                        "rtt": "130.762",
+                        "dev_rtt": "0.573",
+                        "ssthresh": "18",
+                        "rto": "332",
+                        "delivery_rate": "1.9",
+                        "pacing_rate": "2.4"
+                    },
+                    {
+                        "timestamp": "1616945281.864062840",
+                        "cwnd": "24",
+                        "rtt": "122.291",
+                        "dev_rtt": "2.019",
+                        "ssthresh": "18",
+                        "rto": "324",
+                        "delivery_rate": "2.1",
+                        "pacing_rate": "2.7"
+                    },
+                    {
+                        "timestamp": "1616945282.070351167",
+                        "cwnd": "26",
+                        "rtt": "120.832",
+                        "dev_rtt": "0.521",
+                        "ssthresh": "18",
+                        "rto": "324",
+                        "delivery_rate": "2.3",
+                        "pacing_rate": "3.0"
+                    },
+                    {
+                        "timestamp": "1616945282.278713924",
+                        "cwnd": "27",
+                        "rtt": "123.178",
+                        "dev_rtt": "1.583",
+                        "ssthresh": "18",
+                        "rto": "324",
+                        "delivery_rate": "2.5",
+                        "pacing_rate": "3.0"
+                    },
+                    {
+                        "timestamp": "1616945282.485696437",
+                        "cwnd": "29",
+                        "rtt": "120.938",
+                        "dev_rtt": "0.69",
+                        "ssthresh": "18",
+                        "rto": "324",
+                        "delivery_rate": "2.7",
+                        "pacing_rate": "3.3"
+                    },
+                    {
+                        "timestamp": "1616945282.692356124",
+                        "cwnd": "31",
+                        "rtt": "121.5",
+                        "dev_rtt": "0.289",
+                        "ssthresh": "18",
+                        "rto": "324",
+                        "delivery_rate": "2.8",
+                        "pacing_rate": "3.5"
+                    },
+                    {
+                        "timestamp": "1616945282.900477004",
+                        "cwnd": "33",
+                        "rtt": "125.768",
+                        "dev_rtt": "2.7",
+                        "ssthresh": "18",
+                        "rto": "328",
+                        "delivery_rate": "2.9",
+                        "pacing_rate": "3.6"
+                    },
+                    {
+                        "timestamp": "1616945283.106730706",
+                        "cwnd": "34",
+                        "rtt": "131.096",
+                        "dev_rtt": "7.474",
+                        "ssthresh": "18",
+                        "rto": "332",
+                        "delivery_rate": "3.0",
+                        "pacing_rate": "3.6"
+                    },
+                    {
+                        "timestamp": "1616945283.317357803",
+                        "cwnd": "36",
+                        "rtt": "130.246",
+                        "dev_rtt": "1.015",
+                        "ssthresh": "18",
+                        "rto": "332",
+                        "delivery_rate": "3.0",
+                        "pacing_rate": "3.8"
+                    },
+                    {
+                        "timestamp": "1616945283.527814242",
+                        "cwnd": "37",
+                        "rtt": "133.054",
+                        "dev_rtt": "0.925",
+                        "ssthresh": "18",
+                        "rto": "336",
+                        "delivery_rate": "3.1",
+                        "pacing_rate": "3.9"
+                    },
+                    {
+                        "timestamp": "1616945283.734742593",
+                        "cwnd": "39",
+                        "rtt": "140.966",
+                        "dev_rtt": "11.75",
+                        "ssthresh": "18",
+                        "rto": "344",
+                        "delivery_rate": "3.2",
+                        "pacing_rate": "3.8"
+                    },
+                    {
+                        "timestamp": "1616945283.945456340",
+                        "cwnd": "40",
+                        "rtt": "138.172",
+                        "dev_rtt": "0.981",
+                        "ssthresh": "18",
+                        "rto": "340",
+                        "delivery_rate": "3.3",
+                        "pacing_rate": "4.0"
+                    },
+                    {
+                        "timestamp": "1616945284.152570294",
+                        "cwnd": "42",
+                        "rtt": "140.98",
+                        "dev_rtt": "0.886",
+                        "ssthresh": "18",
+                        "rto": "344",
+                        "delivery_rate": "3.3",
+                        "pacing_rate": "4.1"
+                    },
+                    {
+                        "timestamp": "1616945284.360856049",
+                        "cwnd": "43",
+                        "rtt": "143.295",
+                        "dev_rtt": "0.564",
+                        "ssthresh": "18",
+                        "rto": "344",
+                        "delivery_rate": "3.4",
+                        "pacing_rate": "4.2"
+                    },
+                    {
+                        "timestamp": "1616945284.567231623",
+                        "cwnd": "44",
+                        "rtt": "146.892",
+                        "dev_rtt": "0.538",
+                        "ssthresh": "18",
+                        "rto": "348",
+                        "delivery_rate": "3.4",
+                        "pacing_rate": "4.2"
+                    },
+                    {
+                        "timestamp": "1616945284.773794520",
+                        "cwnd": "46",
+                        "rtt": "148.457",
+                        "dev_rtt": "0.707",
+                        "ssthresh": "18",
+                        "rto": "352",
+                        "delivery_rate": "3.5",
+                        "pacing_rate": "4.3"
+                    },
+                    {
+                        "timestamp": "1616945284.982173361",
+                        "cwnd": "47",
+                        "rtt": "150.408",
+                        "dev_rtt": "1.189",
+                        "ssthresh": "18",
+                        "rto": "352",
+                        "delivery_rate": "3.4",
+                        "pacing_rate": "4.3"
+                    },
+                    {
+                        "timestamp": "1616945285.192219218",
+                        "cwnd": "33",
+                        "rtt": "152.963",
+                        "dev_rtt": "0.254",
+                        "ssthresh": "24",
+                        "rto": "356",
+                        "delivery_rate": "3.4",
+                        "pacing_rate": "5.4"
+                    },
+                    {
+                        "timestamp": "1616945285.399087686",
+                        "cwnd": "24",
+                        "rtt": "150.407",
+                        "dev_rtt": "9.377",
+                        "ssthresh": "24",
+                        "rto": "352",
+                        "delivery_rate": "1.8",
+                        "pacing_rate": "2.2"
+                    },
+                    {
+                        "timestamp": "1616945285.606484048",
+                        "cwnd": "26",
+                        "rtt": "128.058",
+                        "dev_rtt": "7.904",
+                        "ssthresh": "24",
+                        "rto": "332",
+                        "delivery_rate": "2.3",
+                        "pacing_rate": "2.8"
+                    },
+                    {
+                        "timestamp": "1616945285.822994514",
+                        "cwnd": "28",
+                        "rtt": "124.839",
+                        "dev_rtt": "0.749",
+                        "ssthresh": "24",
+                        "rto": "328",
+                        "delivery_rate": "2.5",
+                        "pacing_rate": "3.1"
+                    },
+                    {
+                        "timestamp": "1616945286.032254276",
+                        "cwnd": "29",
+                        "rtt": "126.435",
+                        "dev_rtt": "0.474",
+                        "ssthresh": "24",
+                        "rto": "328",
+                        "delivery_rate": "2.5",
+                        "pacing_rate": "3.2"
+                    },
+                    {
+                        "timestamp": "1616945286.242941601",
+                        "cwnd": "31",
+                        "rtt": "129.726",
+                        "dev_rtt": "0.862",
+                        "ssthresh": "24",
+                        "rto": "332",
+                        "delivery_rate": "2.6",
+                        "pacing_rate": "3.3"
+                    },
+                    {
+                        "timestamp": "1616945286.454599157",
+                        "cwnd": "33",
+                        "rtt": "134.629",
+                        "dev_rtt": "0.655",
+                        "ssthresh": "24",
+                        "rto": "336",
+                        "delivery_rate": "2.7",
+                        "pacing_rate": "3.4"
+                    },
+                    {
+                        "timestamp": "1616945286.663474969",
+                        "cwnd": "34",
+                        "rtt": "135.573",
+                        "dev_rtt": "0.727",
+                        "ssthresh": "24",
+                        "rto": "336",
+                        "delivery_rate": "2.8",
+                        "pacing_rate": "3.5"
+                    },
+                    {
+                        "timestamp": "1616945286.871407477",
+                        "cwnd": "36",
+                        "rtt": "137.165",
+                        "dev_rtt": "0.448",
+                        "ssthresh": "24",
+                        "rto": "340",
+                        "delivery_rate": "2.9",
+                        "pacing_rate": "3.6"
+                    },
+                    {
+                        "timestamp": "1616945287.082446094",
+                        "cwnd": "37",
+                        "rtt": "135.458",
+                        "dev_rtt": "1.66",
+                        "ssthresh": "24",
+                        "rto": "336",
+                        "delivery_rate": "3.0",
+                        "pacing_rate": "3.8"
+                    },
+                    {
+                        "timestamp": "1616945287.290403391",
+                        "cwnd": "38",
+                        "rtt": "130.361",
+                        "dev_rtt": "0.709",
+                        "ssthresh": "24",
+                        "rto": "332",
+                        "delivery_rate": "3.3",
+                        "pacing_rate": "4.1"
+                    },
+                    {
+                        "timestamp": "1616945287.500025790",
+                        "cwnd": "40",
+                        "rtt": "132.671",
+                        "dev_rtt": "0.851",
+                        "ssthresh": "24",
+                        "rto": "336",
+                        "delivery_rate": "3.4",
+                        "pacing_rate": "4.2"
+                    },
+                    {
+                        "timestamp": "1616945287.717882696",
+                        "cwnd": "42",
+                        "rtt": "135.997",
+                        "dev_rtt": "1.199",
+                        "ssthresh": "24",
+                        "rto": "336",
+                        "delivery_rate": "3.5",
+                        "pacing_rate": "4.3"
+                    },
+                    {
+                        "timestamp": "1616945287.928437187",
+                        "cwnd": "43",
+                        "rtt": "138.879",
+                        "dev_rtt": "0.581",
+                        "ssthresh": "24",
+                        "rto": "340",
+                        "delivery_rate": "3.4",
+                        "pacing_rate": "4.3"
+                    },
+                    {
+                        "timestamp": "1616945288.138625166",
+                        "cwnd": "45",
+                        "rtt": "140.876",
+                        "dev_rtt": "0.489",
+                        "ssthresh": "24",
+                        "rto": "344",
+                        "delivery_rate": "3.5",
+                        "pacing_rate": "4.4"
+                    },
+                    {
+                        "timestamp": "1616945288.345956124",
+                        "cwnd": "46",
+                        "rtt": "142.775",
+                        "dev_rtt": "1.35",
+                        "ssthresh": "24",
+                        "rto": "344",
+                        "delivery_rate": "3.6",
+                        "pacing_rate": "4.5"
+                    },
+                    {
+                        "timestamp": "1616945288.585425811",
+                        "cwnd": "23",
+                        "rtt": "147.271",
+                        "dev_rtt": "12.339",
+                        "ssthresh": "23",
+                        "rto": "348",
+                        "delivery_rate": "2.2",
+                        "pacing_rate": "2.2"
+                    },
+                    {
+                        "timestamp": "1616945288.811740687",
+                        "cwnd": "25",
+                        "rtt": "136.978",
+                        "dev_rtt": "5.326",
+                        "ssthresh": "23",
+                        "rto": "340",
+                        "delivery_rate": "2.0",
+                        "pacing_rate": "2.5"
+                    },
+                    {
+                        "timestamp": "1616945289.016141857",
+                        "cwnd": "16",
+                        "rtt": "137.127",
+                        "dev_rtt": "1.138",
+                        "ssthresh": "12",
+                        "rto": "340",
+                        "delivery_rate": "1.9",
+                        "pacing_rate": "3.0"
+                    },
+                    {
+                        "timestamp": "1616945289.224921641",
+                        "cwnd": "13",
+                        "rtt": "135.459",
+                        "dev_rtt": "1.211",
+                        "ssthresh": "12",
+                        "rto": "336",
+                        "delivery_rate": "1.0",
+                        "pacing_rate": "1.3"
+                    },
+                    {
+                        "timestamp": "1616945289.435636058",
+                        "cwnd": "14",
+                        "rtt": "136.897",
+                        "dev_rtt": "6.189",
+                        "ssthresh": "12",
+                        "rto": "340",
+                        "delivery_rate": "1.1",
+                        "pacing_rate": "1.4"
+                    },
+                    {
+                        "timestamp": "1616945289.644031068",
+                        "cwnd": "16",
+                        "rtt": "132.182",
+                        "dev_rtt": "2.267",
+                        "ssthresh": "12",
+                        "rto": "336",
+                        "delivery_rate": "1.2",
+                        "pacing_rate": "1.7"
+                    },
+                    {
+                        "timestamp": "1616945289.851473008",
+                        "cwnd": "18",
+                        "rtt": "122.367",
+                        "dev_rtt": "2.634",
+                        "ssthresh": "12",
+                        "rto": "324",
+                        "delivery_rate": "1.6",
+                        "pacing_rate": "2.0"
+                    },
+                    {
+                        "timestamp": "1616945290.065765508",
+                        "cwnd": "19",
+                        "rtt": "120.752",
+                        "dev_rtt": "0.751",
+                        "ssthresh": "12",
+                        "rto": "324",
+                        "delivery_rate": "1.7",
+                        "pacing_rate": "2.2"
+                    },
+                    {
+                        "timestamp": "1616945290.276689300",
+                        "cwnd": "21",
+                        "rtt": "120.485",
+                        "dev_rtt": "0.472",
+                        "ssthresh": "12",
+                        "rto": "324",
+                        "delivery_rate": "1.9",
+                        "pacing_rate": "2.4"
+                    }
+                ]
+            }
+        }
+    ],
+    "left-node-0": [
+        {
+            "10.0.1.1": {
+                "36693": [
+                    {
+                        "meta": true,
+                        "start_time": "0",
+                        "stop_time": "20"
+                    },
+                    {
+                        "timestamp": "1616945270.739798390",
+                        "cwnd": "10",
+                        "rtt": "120.158",
+                        "dev_rtt": "60.079",
+                        "rto": "364",
+                        "pacing_rate": "1.9"
+                    },
+                    {
+                        "timestamp": "1616945270.945868823",
+                        "cwnd": "32",
+                        "rtt": "127.016",
+                        "dev_rtt": "6.72",
+                        "rto": "360",
+                        "delivery_rate": "1.4",
+                        "pacing_rate": "5.8"
+                    },
+                    {
+                        "timestamp": "1616945271.153595855",
+                        "cwnd": "80",
+                        "rtt": "144.651",
+                        "dev_rtt": "7.237",
+                        "rto": "368",
+                        "delivery_rate": "3.1",
+                        "pacing_rate": "12.8"
+                    },
+                    {
+                        "timestamp": "1616945271.360848483",
+                        "cwnd": "160",
+                        "rtt": "177.348",
+                        "dev_rtt": "8.522",
+                        "rto": "396",
+                        "delivery_rate": "5.0",
+                        "pacing_rate": "20.9"
+                    },
+                    {
+                        "timestamp": "1616945271.574930270",
+                        "cwnd": "320",
+                        "rtt": "265.81",
+                        "dev_rtt": "7.122",
+                        "rto": "480",
+                        "delivery_rate": "6.8",
+                        "pacing_rate": "27.9"
+                    },
+                    {
+                        "timestamp": "1616945271.787702538",
+                        "cwnd": "332",
+                        "rtt": "327.748",
+                        "dev_rtt": "62.564",
+                        "rto": "584",
+                        "delivery_rate": "5.1",
+                        "pacing_rate": "23.5"
+                    },
+                    {
+                        "timestamp": "1616945271.994624703",
+                        "cwnd": "197",
+                        "rtt": "458.264",
+                        "dev_rtt": "5.091",
+                        "ssthresh": "166",
+                        "rto": "716",
+                        "delivery_rate": "6.4",
+                        "pacing_rate": "12.4"
+                    },
+                    {
+                        "timestamp": "1616945272.207677445",
+                        "cwnd": "158",
+                        "rtt": "462.018",
+                        "dev_rtt": "8.661",
+                        "ssthresh": "166",
+                        "rto": "720",
+                        "delivery_rate": "7.5",
+                        "pacing_rate": "12.7"
+                    },
+                    {
+                        "timestamp": "1616945272.416972640",
+                        "cwnd": "165",
+                        "rtt": "162.153",
+                        "dev_rtt": "54.352",
+                        "ssthresh": "166",
+                        "rto": "420",
+                        "delivery_rate": "2.0",
+                        "pacing_rate": "25.9"
+                    },
+                    {
+                        "timestamp": "1616945272.624665142",
+                        "cwnd": "92",
+                        "rtt": "205.679",
+                        "dev_rtt": "11.483",
+                        "ssthresh": "166",
+                        "rto": "464",
+                        "delivery_rate": "5.0",
+                        "pacing_rate": "21.6"
+                    },
+                    {
+                        "timestamp": "1616945272.830737981",
+                        "cwnd": "44",
+                        "rtt": "127.506",
+                        "dev_rtt": "10.449",
+                        "ssthresh": "166",
+                        "rto": "384",
+                        "delivery_rate": "4.2",
+                        "pacing_rate": "68.3"
+                    },
+                    {
+                        "timestamp": "1616945273.039719720",
+                        "cwnd": "43",
+                        "rtt": "123.225",
+                        "dev_rtt": "1.969",
+                        "ssthresh": "83",
+                        "rto": "380",
+                        "delivery_rate": "4.1",
+                        "pacing_rate": "8.9"
+                    },
+                    {
+                        "timestamp": "1616945273.245111380",
+                        "cwnd": "41",
+                        "rtt": "120.343",
+                        "dev_rtt": "0.319",
+                        "ssthresh": "41",
+                        "rto": "364",
+                        "delivery_rate": "4.1",
+                        "pacing_rate": "4.7"
+                    },
+                    {
+                        "timestamp": "1616945273.449916762",
+                        "cwnd": "20",
+                        "rtt": "120.159",
+                        "dev_rtt": "0.048",
+                        "ssthresh": "20",
+                        "rto": "344",
+                        "delivery_rate": "3.1",
+                        "pacing_rate": "2.3"
+                    },
+                    {
+                        "timestamp": "1616945273.659585643",
+                        "cwnd": "22",
+                        "rtt": "120.22",
+                        "dev_rtt": "0.109",
+                        "ssthresh": "20",
+                        "rto": "336",
+                        "delivery_rate": "2.0",
+                        "pacing_rate": "2.5"
+                    },
+                    {
+                        "timestamp": "1616945273.876310208",
+                        "cwnd": "24",
+                        "rtt": "120.277",
+                        "dev_rtt": "0.067",
+                        "ssthresh": "20",
+                        "rto": "328",
+                        "delivery_rate": "2.2",
+                        "pacing_rate": "2.8"
+                    },
+                    {
+                        "timestamp": "1616945274.096524559",
+                        "cwnd": "25",
+                        "rtt": "120.384",
+                        "dev_rtt": "0.227",
+                        "ssthresh": "20",
+                        "rto": "328",
+                        "delivery_rate": "2.3",
+                        "pacing_rate": "2.9"
+                    },
+                    {
+                        "timestamp": "1616945274.311764152",
+                        "cwnd": "27",
+                        "rtt": "120.371",
+                        "dev_rtt": "0.252",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "2.5",
+                        "pacing_rate": "3.1"
+                    },
+                    {
+                        "timestamp": "1616945274.537828629",
+                        "cwnd": "29",
+                        "rtt": "120.272",
+                        "dev_rtt": "0.133",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "2.7",
+                        "pacing_rate": "3.4"
+                    },
+                    {
+                        "timestamp": "1616945274.749727699",
+                        "cwnd": "31",
+                        "rtt": "120.245",
+                        "dev_rtt": "0.081",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "2.9",
+                        "pacing_rate": "3.6"
+                    },
+                    {
+                        "timestamp": "1616945274.963742272",
+                        "cwnd": "33",
+                        "rtt": "120.24",
+                        "dev_rtt": "0.066",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "3.0",
+                        "pacing_rate": "3.8"
+                    },
+                    {
+                        "timestamp": "1616945275.176309926",
+                        "cwnd": "34",
+                        "rtt": "120.362",
+                        "dev_rtt": "0.359",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "3.2",
+                        "pacing_rate": "3.9"
+                    },
+                    {
+                        "timestamp": "1616945275.384775112",
+                        "cwnd": "36",
+                        "rtt": "120.72",
+                        "dev_rtt": "0.487",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "3.4",
+                        "pacing_rate": "4.1"
+                    },
+                    {
+                        "timestamp": "1616945275.591669005",
+                        "cwnd": "38",
+                        "rtt": "121.112",
+                        "dev_rtt": "1.572",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "3.4",
+                        "pacing_rate": "4.4"
+                    },
+                    {
+                        "timestamp": "1616945275.801481209",
+                        "cwnd": "39",
+                        "rtt": "120.555",
+                        "dev_rtt": "0.483",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "3.6",
+                        "pacing_rate": "4.5"
+                    },
+                    {
+                        "timestamp": "1616945276.010133323",
+                        "cwnd": "41",
+                        "rtt": "120.483",
+                        "dev_rtt": "0.203",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "3.8",
+                        "pacing_rate": "4.7"
+                    },
+                    {
+                        "timestamp": "1616945276.225768297",
+                        "cwnd": "43",
+                        "rtt": "120.529",
+                        "dev_rtt": "0.288",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "3.9",
+                        "pacing_rate": "5.0"
+                    },
+                    {
+                        "timestamp": "1616945276.437568485",
+                        "cwnd": "45",
+                        "rtt": "120.42",
+                        "dev_rtt": "0.373",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "4.1",
+                        "pacing_rate": "5.2"
+                    },
+                    {
+                        "timestamp": "1616945276.649016127",
+                        "cwnd": "46",
+                        "rtt": "120.522",
+                        "dev_rtt": "0.272",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "4.2",
+                        "pacing_rate": "5.3"
+                    },
+                    {
+                        "timestamp": "1616945276.858620093",
+                        "cwnd": "48",
+                        "rtt": "120.942",
+                        "dev_rtt": "1.085",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "4.5",
+                        "pacing_rate": "5.5"
+                    },
+                    {
+                        "timestamp": "1616945277.069791248",
+                        "cwnd": "50",
+                        "rtt": "120.723",
+                        "dev_rtt": "0.558",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "4.7",
+                        "pacing_rate": "5.8"
+                    },
+                    {
+                        "timestamp": "1616945277.286119528",
+                        "cwnd": "52",
+                        "rtt": "120.532",
+                        "dev_rtt": "0.394",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "4.9",
+                        "pacing_rate": "6.0"
+                    },
+                    {
+                        "timestamp": "1616945277.495664824",
+                        "cwnd": "53",
+                        "rtt": "120.318",
+                        "dev_rtt": "0.143",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "4.9",
+                        "pacing_rate": "6.1"
+                    },
+                    {
+                        "timestamp": "1616945277.730783642",
+                        "cwnd": "55",
+                        "rtt": "120.976",
+                        "dev_rtt": "0.509",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "5.1",
+                        "pacing_rate": "6.3"
+                    },
+                    {
+                        "timestamp": "1616945277.943357452",
+                        "cwnd": "57",
+                        "rtt": "120.73",
+                        "dev_rtt": "0.278",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "5.3",
+                        "pacing_rate": "6.6"
+                    },
+                    {
+                        "timestamp": "1616945278.151695295",
+                        "cwnd": "58",
+                        "rtt": "122.534",
+                        "dev_rtt": "0.212",
+                        "ssthresh": "20",
+                        "rto": "324",
+                        "delivery_rate": "5.4",
+                        "pacing_rate": "6.6"
+                    },
+                    {
+                        "timestamp": "1616945278.369339189",
+                        "cwnd": "60",
+                        "rtt": "125.786",
+                        "dev_rtt": "0.537",
+                        "ssthresh": "20",
+                        "rto": "328",
+                        "delivery_rate": "5.4",
+                        "pacing_rate": "6.6"
+                    },
+                    {
+                        "timestamp": "1616945278.575085905",
+                        "cwnd": "61",
+                        "rtt": "132.602",
+                        "dev_rtt": "11.521",
+                        "ssthresh": "20",
+                        "rto": "336",
+                        "delivery_rate": "4.0",
+                        "pacing_rate": "6.4"
+                    },
+                    {
+                        "timestamp": "1616945278.786800779",
+                        "cwnd": "63",
+                        "rtt": "131.361",
+                        "dev_rtt": "0.406",
+                        "ssthresh": "20",
+                        "rto": "332",
+                        "delivery_rate": "5.4",
+                        "pacing_rate": "6.7"
+                    },
+                    {
+                        "timestamp": "1616945278.996027441",
+                        "cwnd": "65",
+                        "rtt": "133.909",
+                        "dev_rtt": "0.708",
+                        "ssthresh": "20",
+                        "rto": "336",
+                        "delivery_rate": "5.5",
+                        "pacing_rate": "6.7"
+                    },
+                    {
+                        "timestamp": "1616945279.204537591",
+                        "cwnd": "66",
+                        "rtt": "137.127",
+                        "dev_rtt": "0.328",
+                        "ssthresh": "20",
+                        "rto": "340",
+                        "delivery_rate": "5.5",
+                        "pacing_rate": "6.7"
+                    },
+                    {
+                        "timestamp": "1616945279.422906953",
+                        "cwnd": "68",
+                        "rtt": "138.958",
+                        "dev_rtt": "0.613",
+                        "ssthresh": "20",
+                        "rto": "340",
+                        "delivery_rate": "5.5",
+                        "pacing_rate": "6.8"
+                    },
+                    {
+                        "timestamp": "1616945279.640261892",
+                        "cwnd": "69",
+                        "rtt": "141.395",
+                        "dev_rtt": "0.699",
+                        "ssthresh": "20",
+                        "rto": "344",
+                        "delivery_rate": "5.5",
+                        "pacing_rate": "6.8"
+                    },
+                    {
+                        "timestamp": "1616945279.851851326",
+                        "cwnd": "71",
+                        "rtt": "144.738",
+                        "dev_rtt": "0.484",
+                        "ssthresh": "20",
+                        "rto": "348",
+                        "delivery_rate": "5.5",
+                        "pacing_rate": "6.8"
+                    },
+                    {
+                        "timestamp": "1616945280.060304670",
+                        "cwnd": "72",
+                        "rtt": "147.014",
+                        "dev_rtt": "1.09",
+                        "ssthresh": "20",
+                        "rto": "348",
+                        "delivery_rate": "5.5",
+                        "pacing_rate": "6.8"
+                    },
+                    {
+                        "timestamp": "1616945280.267540414",
+                        "cwnd": "73",
+                        "rtt": "149.452",
+                        "dev_rtt": "0.26",
+                        "ssthresh": "20",
+                        "rto": "352",
+                        "delivery_rate": "5.5",
+                        "pacing_rate": "6.8"
+                    },
+                    {
+                        "timestamp": "1616945280.472533098",
+                        "cwnd": "75",
+                        "rtt": "152.441",
+                        "dev_rtt": "0.19",
+                        "ssthresh": "20",
+                        "rto": "356",
+                        "delivery_rate": "5.6",
+                        "pacing_rate": "6.8"
+                    },
+                    {
+                        "timestamp": "1616945280.681636458",
+                        "cwnd": "76",
+                        "rtt": "152.73",
+                        "dev_rtt": "0.481",
+                        "ssthresh": "20",
+                        "rto": "356",
+                        "delivery_rate": "5.6",
+                        "pacing_rate": "6.9"
+                    },
+                    {
+                        "timestamp": "1616945280.893788484",
+                        "cwnd": "78",
+                        "rtt": "135.446",
+                        "dev_rtt": "3.174",
+                        "ssthresh": "20",
+                        "rto": "336",
+                        "delivery_rate": "5.8",
+                        "pacing_rate": "8.0"
+                    },
+                    {
+                        "timestamp": "1616945281.100946761",
+                        "cwnd": "79",
+                        "rtt": "129.316",
+                        "dev_rtt": "0.856",
+                        "ssthresh": "20",
+                        "rto": "332",
+                        "delivery_rate": "6.7",
+                        "pacing_rate": "8.5"
+                    },
+                    {
+                        "timestamp": "1616945281.306060095",
+                        "cwnd": "81",
+                        "rtt": "127.671",
+                        "dev_rtt": "0.4",
+                        "ssthresh": "20",
+                        "rto": "328",
+                        "delivery_rate": "7.2",
+                        "pacing_rate": "8.8"
+                    },
+                    {
+                        "timestamp": "1616945281.515370061",
+                        "cwnd": "82",
+                        "rtt": "129.962",
+                        "dev_rtt": "0.627",
+                        "ssthresh": "20",
+                        "rto": "332",
+                        "delivery_rate": "7.1",
+                        "pacing_rate": "8.8"
+                    },
+                    {
+                        "timestamp": "1616945281.720421429",
+                        "cwnd": "41",
+                        "rtt": "131.137",
+                        "dev_rtt": "3.498",
+                        "ssthresh": "41",
+                        "rto": "332",
+                        "delivery_rate": "5.8",
+                        "pacing_rate": "4.3"
+                    },
+                    {
+                        "timestamp": "1616945281.929463540",
+                        "cwnd": "43",
+                        "rtt": "120.603",
+                        "dev_rtt": "0.189",
+                        "ssthresh": "41",
+                        "rto": "324",
+                        "delivery_rate": "4.0",
+                        "pacing_rate": "5.0"
+                    },
+                    {
+                        "timestamp": "1616945282.135372265",
+                        "cwnd": "44",
+                        "rtt": "120.831",
+                        "dev_rtt": "0.441",
+                        "ssthresh": "41",
+                        "rto": "324",
+                        "delivery_rate": "4.1",
+                        "pacing_rate": "5.1"
+                    },
+                    {
+                        "timestamp": "1616945282.343733251",
+                        "cwnd": "46",
+                        "rtt": "121.959",
+                        "dev_rtt": "0.743",
+                        "ssthresh": "41",
+                        "rto": "324",
+                        "delivery_rate": "4.3",
+                        "pacing_rate": "5.2"
+                    },
+                    {
+                        "timestamp": "1616945282.552661340",
+                        "cwnd": "48",
+                        "rtt": "121.396",
+                        "dev_rtt": "0.417",
+                        "ssthresh": "41",
+                        "rto": "324",
+                        "delivery_rate": "4.5",
+                        "pacing_rate": "5.5"
+                    },
+                    {
+                        "timestamp": "1616945282.758811814",
+                        "cwnd": "49",
+                        "rtt": "122.211",
+                        "dev_rtt": "1.609",
+                        "ssthresh": "41",
+                        "rto": "324",
+                        "delivery_rate": "4.5",
+                        "pacing_rate": "5.6"
+                    },
+                    {
+                        "timestamp": "1616945282.969877167",
+                        "cwnd": "51",
+                        "rtt": "124.522",
+                        "dev_rtt": "0.635",
+                        "ssthresh": "41",
+                        "rto": "328",
+                        "delivery_rate": "4.5",
+                        "pacing_rate": "5.7"
+                    },
+                    {
+                        "timestamp": "1616945283.177870266",
+                        "cwnd": "53",
+                        "rtt": "127.728",
+                        "dev_rtt": "0.32",
+                        "ssthresh": "41",
+                        "rto": "328",
+                        "delivery_rate": "4.6",
+                        "pacing_rate": "5.8"
+                    },
+                    {
+                        "timestamp": "1616945283.388513192",
+                        "cwnd": "54",
+                        "rtt": "131.383",
+                        "dev_rtt": "0.903",
+                        "ssthresh": "41",
+                        "rto": "332",
+                        "delivery_rate": "4.6",
+                        "pacing_rate": "5.7"
+                    },
+                    {
+                        "timestamp": "1616945283.602914290",
+                        "cwnd": "56",
+                        "rtt": "133.98",
+                        "dev_rtt": "0.949",
+                        "ssthresh": "41",
+                        "rto": "336",
+                        "delivery_rate": "4.7",
+                        "pacing_rate": "5.8"
+                    },
+                    {
+                        "timestamp": "1616945283.811487418",
+                        "cwnd": "57",
+                        "rtt": "136.738",
+                        "dev_rtt": "0.402",
+                        "ssthresh": "41",
+                        "rto": "340",
+                        "delivery_rate": "4.7",
+                        "pacing_rate": "5.8"
+                    },
+                    {
+                        "timestamp": "1616945284.020533830",
+                        "cwnd": "59",
+                        "rtt": "138.59",
+                        "dev_rtt": "0.261",
+                        "ssthresh": "41",
+                        "rto": "340",
+                        "delivery_rate": "4.8",
+                        "pacing_rate": "5.9"
+                    },
+                    {
+                        "timestamp": "1616945284.233151368",
+                        "cwnd": "60",
+                        "rtt": "141.896",
+                        "dev_rtt": "0.39",
+                        "ssthresh": "41",
+                        "rto": "344",
+                        "delivery_rate": "4.7",
+                        "pacing_rate": "5.9"
+                    },
+                    {
+                        "timestamp": "1616945284.443211729",
+                        "cwnd": "62",
+                        "rtt": "144.058",
+                        "dev_rtt": "0.668",
+                        "ssthresh": "41",
+                        "rto": "348",
+                        "delivery_rate": "4.9",
+                        "pacing_rate": "6.0"
+                    },
+                    {
+                        "timestamp": "1616945284.650944353",
+                        "cwnd": "63",
+                        "rtt": "147.268",
+                        "dev_rtt": "0.296",
+                        "ssthresh": "41",
+                        "rto": "348",
+                        "delivery_rate": "4.8",
+                        "pacing_rate": "5.9"
+                    },
+                    {
+                        "timestamp": "1616945284.861683043",
+                        "cwnd": "65",
+                        "rtt": "150.047",
+                        "dev_rtt": "0.277",
+                        "ssthresh": "41",
+                        "rto": "352",
+                        "delivery_rate": "4.9",
+                        "pacing_rate": "6.0"
+                    },
+                    {
+                        "timestamp": "1616945285.067636375",
+                        "cwnd": "66",
+                        "rtt": "150.549",
+                        "dev_rtt": "0.817",
+                        "ssthresh": "41",
+                        "rto": "352",
+                        "delivery_rate": "4.9",
+                        "pacing_rate": "6.1"
+                    },
+                    {
+                        "timestamp": "1616945285.275085401",
+                        "cwnd": "59",
+                        "rtt": "153.421",
+                        "dev_rtt": "0.35",
+                        "ssthresh": "33",
+                        "rto": "356",
+                        "delivery_rate": "4.7",
+                        "pacing_rate": "6.5"
+                    },
+                    {
+                        "timestamp": "1616945285.491036391",
+                        "cwnd": "33",
+                        "rtt": "134.436",
+                        "dev_rtt": "3.469",
+                        "ssthresh": "33",
+                        "rto": "336",
+                        "delivery_rate": "3.6",
+                        "pacing_rate": "5.7"
+                    },
+                    {
+                        "timestamp": "1616945285.699858979",
+                        "cwnd": "34",
+                        "rtt": "124.035",
+                        "dev_rtt": "2.251",
+                        "ssthresh": "33",
+                        "rto": "328",
+                        "delivery_rate": "3.1",
+                        "pacing_rate": "3.8"
+                    },
+                    {
+                        "timestamp": "1616945285.906427845",
+                        "cwnd": "36",
+                        "rtt": "126.622",
+                        "dev_rtt": "1.56",
+                        "ssthresh": "33",
+                        "rto": "328",
+                        "delivery_rate": "3.2",
+                        "pacing_rate": "4.0"
+                    },
+                    {
+                        "timestamp": "1616945286.118176889",
+                        "cwnd": "37",
+                        "rtt": "128.059",
+                        "dev_rtt": "0.487",
+                        "ssthresh": "33",
+                        "rto": "332",
+                        "delivery_rate": "3.2",
+                        "pacing_rate": "4.0"
+                    },
+                    {
+                        "timestamp": "1616945286.329540628",
+                        "cwnd": "39",
+                        "rtt": "131.864",
+                        "dev_rtt": "0.552",
+                        "ssthresh": "33",
+                        "rto": "332",
+                        "delivery_rate": "3.2",
+                        "pacing_rate": "4.1"
+                    },
+                    {
+                        "timestamp": "1616945286.535664599",
+                        "cwnd": "40",
+                        "rtt": "133.703",
+                        "dev_rtt": "0.741",
+                        "ssthresh": "33",
+                        "rto": "336",
+                        "delivery_rate": "3.3",
+                        "pacing_rate": "4.2"
+                    },
+                    {
+                        "timestamp": "1616945286.747538190",
+                        "cwnd": "42",
+                        "rtt": "137.121",
+                        "dev_rtt": "1.087",
+                        "ssthresh": "33",
+                        "rto": "340",
+                        "delivery_rate": "3.4",
+                        "pacing_rate": "4.3"
+                    },
+                    {
+                        "timestamp": "1616945286.954896770",
+                        "cwnd": "27",
+                        "rtt": "138.441",
+                        "dev_rtt": "0.884",
+                        "ssthresh": "21",
+                        "rto": "340",
+                        "delivery_rate": "3.2",
+                        "pacing_rate": "5.3"
+                    },
+                    {
+                        "timestamp": "1616945287.162691983",
+                        "cwnd": "22",
+                        "rtt": "135.639",
+                        "dev_rtt": "7.927",
+                        "ssthresh": "21",
+                        "rto": "336",
+                        "delivery_rate": "1.7",
+                        "pacing_rate": "2.3"
+                    },
+                    {
+                        "timestamp": "1616945287.371582179",
+                        "cwnd": "24",
+                        "rtt": "131.417",
+                        "dev_rtt": "0.274",
+                        "ssthresh": "21",
+                        "rto": "332",
+                        "delivery_rate": "1.9",
+                        "pacing_rate": "2.5"
+                    },
+                    {
+                        "timestamp": "1616945287.579577790",
+                        "cwnd": "25",
+                        "rtt": "134.932",
+                        "dev_rtt": "2.021",
+                        "ssthresh": "21",
+                        "rto": "336",
+                        "delivery_rate": "2.0",
+                        "pacing_rate": "2.6"
+                    },
+                    {
+                        "timestamp": "1616945287.787873637",
+                        "cwnd": "27",
+                        "rtt": "136.623",
+                        "dev_rtt": "1.018",
+                        "ssthresh": "21",
+                        "rto": "340",
+                        "delivery_rate": "2.2",
+                        "pacing_rate": "2.7"
+                    },
+                    {
+                        "timestamp": "1616945287.996875347",
+                        "cwnd": "28",
+                        "rtt": "138.824",
+                        "dev_rtt": "1.076",
+                        "ssthresh": "21",
+                        "rto": "340",
+                        "delivery_rate": "2.2",
+                        "pacing_rate": "2.8"
+                    },
+                    {
+                        "timestamp": "1616945288.213346379",
+                        "cwnd": "29",
+                        "rtt": "142.319",
+                        "dev_rtt": "1.235",
+                        "ssthresh": "21",
+                        "rto": "344",
+                        "delivery_rate": "2.2",
+                        "pacing_rate": "2.8"
+                    },
+                    {
+                        "timestamp": "1616945288.428979047",
+                        "cwnd": "31",
+                        "rtt": "143.793",
+                        "dev_rtt": "0.782",
+                        "ssthresh": "21",
+                        "rto": "344",
+                        "delivery_rate": "2.3",
+                        "pacing_rate": "3.0"
+                    },
+                    {
+                        "timestamp": "1616945288.632454238",
+                        "cwnd": "32",
+                        "rtt": "138.534",
+                        "dev_rtt": "4.849",
+                        "ssthresh": "21",
+                        "rto": "340",
+                        "delivery_rate": "2.5",
+                        "pacing_rate": "3.2"
+                    },
+                    {
+                        "timestamp": "1616945288.844658985",
+                        "cwnd": "34",
+                        "rtt": "134.611",
+                        "dev_rtt": "0.531",
+                        "ssthresh": "21",
+                        "rto": "336",
+                        "delivery_rate": "2.8",
+                        "pacing_rate": "3.5"
+                    },
+                    {
+                        "timestamp": "1616945289.050737338",
+                        "cwnd": "35",
+                        "rtt": "136.721",
+                        "dev_rtt": "1.043",
+                        "ssthresh": "21",
+                        "rto": "340",
+                        "delivery_rate": "2.8",
+                        "pacing_rate": "3.6"
+                    },
+                    {
+                        "timestamp": "1616945289.259793300",
+                        "cwnd": "37",
+                        "rtt": "133.085",
+                        "dev_rtt": "1.789",
+                        "ssthresh": "21",
+                        "rto": "336",
+                        "delivery_rate": "3.1",
+                        "pacing_rate": "3.9"
+                    },
+                    {
+                        "timestamp": "1616945289.476172333",
+                        "cwnd": "38",
+                        "rtt": "134.211",
+                        "dev_rtt": "0.457",
+                        "ssthresh": "21",
+                        "rto": "336",
+                        "delivery_rate": "3.2",
+                        "pacing_rate": "3.9"
+                    },
+                    {
+                        "timestamp": "1616945289.682112069",
+                        "cwnd": "40",
+                        "rtt": "122.132",
+                        "dev_rtt": "2.584",
+                        "ssthresh": "21",
+                        "rto": "324",
+                        "delivery_rate": "3.4",
+                        "pacing_rate": "4.6"
+                    },
+                    {
+                        "timestamp": "1616945289.892949126",
+                        "cwnd": "41",
+                        "rtt": "120.65",
+                        "dev_rtt": "0.592",
+                        "ssthresh": "21",
+                        "rto": "324",
+                        "delivery_rate": "3.8",
+                        "pacing_rate": "4.7"
+                    },
+                    {
+                        "timestamp": "1616945290.098646265",
+                        "cwnd": "43",
+                        "rtt": "120.56",
+                        "dev_rtt": "0.581",
+                        "ssthresh": "21",
+                        "rto": "324",
+                        "delivery_rate": "3.9",
+                        "pacing_rate": "5.0"
+                    }
+                ]
+            }
+        }
+    ],
+    "left-node-2": [
+        {
+            "10.0.1.5": {
+                "36623": [
+                    {
+                        "meta": true,
+                        "start_time": "0",
+                        "stop_time": "20"
+                    },
+                    {
+                        "timestamp": "1616945270.756059803",
+                        "cwnd": "10",
+                        "rtt": "120.183",
+                        "dev_rtt": "60.091",
+                        "rto": "364",
+                        "pacing_rate": "1.9"
+                    },
+                    {
+                        "timestamp": "1616945270.965241139",
+                        "cwnd": "40",
+                        "rtt": "123.381",
+                        "dev_rtt": "3.385",
+                        "rto": "356",
+                        "delivery_rate": "1.8",
+                        "pacing_rate": "7.5"
+                    },
+                    {
+                        "timestamp": "1616945271.190023305",
+                        "cwnd": "140",
+                        "rtt": "134.131",
+                        "dev_rtt": "4.508",
+                        "rto": "352",
+                        "delivery_rate": "5.8",
+                        "pacing_rate": "24.2"
+                    },
+                    {
+                        "timestamp": "1616945271.409218617",
+                        "cwnd": "319",
+                        "rtt": "189.004",
+                        "dev_rtt": "4.866",
+                        "rto": "404",
+                        "delivery_rate": "9.5",
+                        "pacing_rate": "39.1"
+                    },
+                    {
+                        "timestamp": "1616945271.622477057",
+                        "cwnd": "366",
+                        "rtt": "294.886",
+                        "dev_rtt": "12.947",
+                        "rto": "524",
+                        "delivery_rate": "7.0",
+                        "pacing_rate": "28.8"
+                    },
+                    {
+                        "timestamp": "1616945271.832555456",
+                        "cwnd": "291",
+                        "rtt": "370.193",
+                        "dev_rtt": "6.649",
+                        "ssthresh": "205",
+                        "rto": "600",
+                        "delivery_rate": "9.4",
+                        "pacing_rate": "18.9"
+                    },
+                    {
+                        "timestamp": "1616945272.041994851",
+                        "cwnd": "290",
+                        "rtt": "375.388",
+                        "dev_rtt": "15.378",
+                        "ssthresh": "205",
+                        "rto": "604",
+                        "delivery_rate": "8.6",
+                        "pacing_rate": "18.6"
+                    },
+                    {
+                        "timestamp": "1616945272.247966784",
+                        "cwnd": "166",
+                        "rtt": "382.37",
+                        "dev_rtt": "28.233",
+                        "ssthresh": "205",
+                        "rto": "680",
+                        "delivery_rate": "3.4",
+                        "pacing_rate": "17.7"
+                    },
+                    {
+                        "timestamp": "1616945272.460522935",
+                        "cwnd": "133",
+                        "rtt": "137.798",
+                        "dev_rtt": "11.616",
+                        "ssthresh": "102",
+                        "rto": "436",
+                        "delivery_rate": "12.4",
+                        "pacing_rate": "33.3"
+                    },
+                    {
+                        "timestamp": "1616945272.669781184",
+                        "cwnd": "100",
+                        "rtt": "176.857",
+                        "dev_rtt": "6.307",
+                        "ssthresh": "102",
+                        "rto": "476",
+                        "delivery_rate": "4.8",
+                        "pacing_rate": "20.4"
+                    },
+                    {
+                        "timestamp": "1616945272.878771701",
+                        "cwnd": "102",
+                        "rtt": "120.369",
+                        "dev_rtt": "0.181",
+                        "ssthresh": "102",
+                        "rto": "392",
+                        "delivery_rate": "7.0",
+                        "pacing_rate": "11.8"
+                    },
+                    {
+                        "timestamp": "1616945273.091844459",
+                        "cwnd": "72",
+                        "rtt": "120.526",
+                        "dev_rtt": "0.654",
+                        "ssthresh": "51",
+                        "rto": "376",
+                        "delivery_rate": "9.2",
+                        "pacing_rate": "14.0"
+                    },
+                    {
+                        "timestamp": "1616945273.301954482",
+                        "cwnd": "52",
+                        "rtt": "120.179",
+                        "dev_rtt": "0.076",
+                        "ssthresh": "51",
+                        "rto": "364",
+                        "delivery_rate": "4.9",
+                        "pacing_rate": "6.0"
+                    },
+                    {
+                        "timestamp": "1616945273.507086753",
+                        "cwnd": "54",
+                        "rtt": "120.635",
+                        "dev_rtt": "0.398",
+                        "ssthresh": "51",
+                        "rto": "344",
+                        "delivery_rate": "5.1",
+                        "pacing_rate": "6.2"
+                    },
+                    {
+                        "timestamp": "1616945273.716547447",
+                        "cwnd": "55",
+                        "rtt": "120.308",
+                        "dev_rtt": "0.073",
+                        "ssthresh": "51",
+                        "rto": "336",
+                        "delivery_rate": "5.1",
+                        "pacing_rate": "6.4"
+                    },
+                    {
+                        "timestamp": "1616945273.940386291",
+                        "cwnd": "57",
+                        "rtt": "120.593",
+                        "dev_rtt": "0.373",
+                        "ssthresh": "51",
+                        "rto": "328",
+                        "delivery_rate": "5.3",
+                        "pacing_rate": "6.6"
+                    },
+                    {
+                        "timestamp": "1616945274.164853588",
+                        "cwnd": "59",
+                        "rtt": "120.427",
+                        "dev_rtt": "0.209",
+                        "ssthresh": "51",
+                        "rto": "328",
+                        "delivery_rate": "5.5",
+                        "pacing_rate": "6.8"
+                    },
+                    {
+                        "timestamp": "1616945274.377102435",
+                        "cwnd": "60",
+                        "rtt": "120.401",
+                        "dev_rtt": "0.19",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "5.7",
+                        "pacing_rate": "6.9"
+                    },
+                    {
+                        "timestamp": "1616945274.592359742",
+                        "cwnd": "62",
+                        "rtt": "120.579",
+                        "dev_rtt": "0.442",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "5.8",
+                        "pacing_rate": "7.1"
+                    },
+                    {
+                        "timestamp": "1616945274.804346806",
+                        "cwnd": "64",
+                        "rtt": "120.78",
+                        "dev_rtt": "0.764",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "6.0",
+                        "pacing_rate": "7.4"
+                    },
+                    {
+                        "timestamp": "1616945275.094869268",
+                        "cwnd": "66",
+                        "rtt": "120.609",
+                        "dev_rtt": "0.743",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "6.1",
+                        "pacing_rate": "7.6"
+                    },
+                    {
+                        "timestamp": "1616945275.308674058",
+                        "cwnd": "68",
+                        "rtt": "121.694",
+                        "dev_rtt": "1.733",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "6.2",
+                        "pacing_rate": "7.8"
+                    },
+                    {
+                        "timestamp": "1616945275.523709366",
+                        "cwnd": "70",
+                        "rtt": "120.374",
+                        "dev_rtt": "0.238",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "6.6",
+                        "pacing_rate": "8.1"
+                    },
+                    {
+                        "timestamp": "1616945275.736806989",
+                        "cwnd": "72",
+                        "rtt": "120.966",
+                        "dev_rtt": "0.901",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "6.7",
+                        "pacing_rate": "8.3"
+                    },
+                    {
+                        "timestamp": "1616945275.946630303",
+                        "cwnd": "73",
+                        "rtt": "120.44",
+                        "dev_rtt": "0.355",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "6.8",
+                        "pacing_rate": "8.4"
+                    },
+                    {
+                        "timestamp": "1616945276.156457607",
+                        "cwnd": "75",
+                        "rtt": "120.363",
+                        "dev_rtt": "0.146",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "7.0",
+                        "pacing_rate": "8.7"
+                    },
+                    {
+                        "timestamp": "1616945276.365652447",
+                        "cwnd": "77",
+                        "rtt": "120.843",
+                        "dev_rtt": "0.85",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "7.3",
+                        "pacing_rate": "8.9"
+                    },
+                    {
+                        "timestamp": "1616945276.591222633",
+                        "cwnd": "79",
+                        "rtt": "120.957",
+                        "dev_rtt": "1.135",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "7.5",
+                        "pacing_rate": "9.1"
+                    },
+                    {
+                        "timestamp": "1616945276.822452321",
+                        "cwnd": "80",
+                        "rtt": "120.581",
+                        "dev_rtt": "0.401",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "7.5",
+                        "pacing_rate": "9.2"
+                    },
+                    {
+                        "timestamp": "1616945277.032976082",
+                        "cwnd": "82",
+                        "rtt": "125.045",
+                        "dev_rtt": "8.28",
+                        "ssthresh": "51",
+                        "rto": "328",
+                        "delivery_rate": "7.6",
+                        "pacing_rate": "9.1"
+                    },
+                    {
+                        "timestamp": "1616945277.251762743",
+                        "cwnd": "84",
+                        "rtt": "120.491",
+                        "dev_rtt": "0.274",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "7.9",
+                        "pacing_rate": "9.7"
+                    },
+                    {
+                        "timestamp": "1616945277.461811370",
+                        "cwnd": "86",
+                        "rtt": "120.818",
+                        "dev_rtt": "0.578",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "8.0",
+                        "pacing_rate": "9.9"
+                    },
+                    {
+                        "timestamp": "1616945277.676037086",
+                        "cwnd": "87",
+                        "rtt": "121.398",
+                        "dev_rtt": "0.378",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "8.2",
+                        "pacing_rate": "10.0"
+                    },
+                    {
+                        "timestamp": "1616945277.887879545",
+                        "cwnd": "89",
+                        "rtt": "121.48",
+                        "dev_rtt": "0.538",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "8.4",
+                        "pacing_rate": "10.2"
+                    },
+                    {
+                        "timestamp": "1616945278.112357260",
+                        "cwnd": "91",
+                        "rtt": "123.072",
+                        "dev_rtt": "0.342",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "8.5",
+                        "pacing_rate": "10.3"
+                    },
+                    {
+                        "timestamp": "1616945278.320521851",
+                        "cwnd": "93",
+                        "rtt": "124.914",
+                        "dev_rtt": "0.2",
+                        "ssthresh": "51",
+                        "rto": "328",
+                        "delivery_rate": "8.5",
+                        "pacing_rate": "10.3"
+                    },
+                    {
+                        "timestamp": "1616945278.535484471",
+                        "cwnd": "94",
+                        "rtt": "127.273",
+                        "dev_rtt": "0.543",
+                        "ssthresh": "51",
+                        "rto": "328",
+                        "delivery_rate": "8.3",
+                        "pacing_rate": "10.3"
+                    },
+                    {
+                        "timestamp": "1616945278.744772718",
+                        "cwnd": "96",
+                        "rtt": "129.422",
+                        "dev_rtt": "0.363",
+                        "ssthresh": "51",
+                        "rto": "332",
+                        "delivery_rate": "8.4",
+                        "pacing_rate": "10.3"
+                    },
+                    {
+                        "timestamp": "1616945278.952645279",
+                        "cwnd": "98",
+                        "rtt": "132.781",
+                        "dev_rtt": "0.079",
+                        "ssthresh": "51",
+                        "rto": "336",
+                        "delivery_rate": "8.4",
+                        "pacing_rate": "10.3"
+                    },
+                    {
+                        "timestamp": "1616945279.174136638",
+                        "cwnd": "99",
+                        "rtt": "136.059",
+                        "dev_rtt": "1.249",
+                        "ssthresh": "51",
+                        "rto": "340",
+                        "delivery_rate": "8.3",
+                        "pacing_rate": "10.1"
+                    },
+                    {
+                        "timestamp": "1616945279.383194872",
+                        "cwnd": "101",
+                        "rtt": "139.11",
+                        "dev_rtt": "0.473",
+                        "ssthresh": "51",
+                        "rto": "340",
+                        "delivery_rate": "8.3",
+                        "pacing_rate": "10.1"
+                    },
+                    {
+                        "timestamp": "1616945279.602202323",
+                        "cwnd": "102",
+                        "rtt": "141.555",
+                        "dev_rtt": "0.784",
+                        "ssthresh": "51",
+                        "rto": "344",
+                        "delivery_rate": "8.1",
+                        "pacing_rate": "10.0"
+                    },
+                    {
+                        "timestamp": "1616945279.806925114",
+                        "cwnd": "104",
+                        "rtt": "144.393",
+                        "dev_rtt": "0.493",
+                        "ssthresh": "51",
+                        "rto": "348",
+                        "delivery_rate": "8.2",
+                        "pacing_rate": "10.0"
+                    },
+                    {
+                        "timestamp": "1616945280.014492365",
+                        "cwnd": "105",
+                        "rtt": "146.481",
+                        "dev_rtt": "0.402",
+                        "ssthresh": "51",
+                        "rto": "348",
+                        "delivery_rate": "8.1",
+                        "pacing_rate": "10.0"
+                    },
+                    {
+                        "timestamp": "1616945280.218903603",
+                        "cwnd": "106",
+                        "rtt": "148.775",
+                        "dev_rtt": "0.353",
+                        "ssthresh": "51",
+                        "rto": "352",
+                        "delivery_rate": "8.1",
+                        "pacing_rate": "9.9"
+                    },
+                    {
+                        "timestamp": "1616945280.426530065",
+                        "cwnd": "108",
+                        "rtt": "151.296",
+                        "dev_rtt": "0.408",
+                        "ssthresh": "51",
+                        "rto": "352",
+                        "delivery_rate": "8.2",
+                        "pacing_rate": "9.9"
+                    },
+                    {
+                        "timestamp": "1616945280.637775262",
+                        "cwnd": "109",
+                        "rtt": "152.948",
+                        "dev_rtt": "0.315",
+                        "ssthresh": "51",
+                        "rto": "356",
+                        "delivery_rate": "8.2",
+                        "pacing_rate": "9.9"
+                    },
+                    {
+                        "timestamp": "1616945280.846743560",
+                        "cwnd": "111",
+                        "rtt": "142.712",
+                        "dev_rtt": "0.309",
+                        "ssthresh": "51",
+                        "rto": "344",
+                        "delivery_rate": "8.2",
+                        "pacing_rate": "10.8"
+                    },
+                    {
+                        "timestamp": "1616945281.058177871",
+                        "cwnd": "112",
+                        "rtt": "129.274",
+                        "dev_rtt": "5.211",
+                        "ssthresh": "51",
+                        "rto": "332",
+                        "delivery_rate": "9.6",
+                        "pacing_rate": "12.0"
+                    },
+                    {
+                        "timestamp": "1616945281.283739174",
+                        "cwnd": "114",
+                        "rtt": "126.078",
+                        "dev_rtt": "1.603",
+                        "ssthresh": "51",
+                        "rto": "328",
+                        "delivery_rate": "10.2",
+                        "pacing_rate": "12.6"
+                    },
+                    {
+                        "timestamp": "1616945281.490170575",
+                        "cwnd": "116",
+                        "rtt": "129.704",
+                        "dev_rtt": "0.798",
+                        "ssthresh": "51",
+                        "rto": "332",
+                        "delivery_rate": "10.1",
+                        "pacing_rate": "12.4"
+                    },
+                    {
+                        "timestamp": "1616945281.699194178",
+                        "cwnd": "117",
+                        "rtt": "126.889",
+                        "dev_rtt": "1.664",
+                        "ssthresh": "51",
+                        "rto": "328",
+                        "delivery_rate": "10.2",
+                        "pacing_rate": "12.8"
+                    },
+                    {
+                        "timestamp": "1616945281.909540893",
+                        "cwnd": "119",
+                        "rtt": "120.806",
+                        "dev_rtt": "0.386",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "11.4",
+                        "pacing_rate": "13.7"
+                    },
+                    {
+                        "timestamp": "1616945282.119027833",
+                        "cwnd": "121",
+                        "rtt": "121.136",
+                        "dev_rtt": "0.586",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "11.3",
+                        "pacing_rate": "13.9"
+                    },
+                    {
+                        "timestamp": "1616945282.325372371",
+                        "cwnd": "122",
+                        "rtt": "121.049",
+                        "dev_rtt": "0.487",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "11.3",
+                        "pacing_rate": "14.0"
+                    },
+                    {
+                        "timestamp": "1616945282.533942318",
+                        "cwnd": "124",
+                        "rtt": "121.008",
+                        "dev_rtt": "0.687",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "11.7",
+                        "pacing_rate": "14.2"
+                    },
+                    {
+                        "timestamp": "1616945282.743593735",
+                        "cwnd": "126",
+                        "rtt": "121.688",
+                        "dev_rtt": "0.533",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "11.8",
+                        "pacing_rate": "14.4"
+                    },
+                    {
+                        "timestamp": "1616945282.949961388",
+                        "cwnd": "127",
+                        "rtt": "124.988",
+                        "dev_rtt": "0.311",
+                        "ssthresh": "51",
+                        "rto": "328",
+                        "delivery_rate": "11.6",
+                        "pacing_rate": "14.1"
+                    },
+                    {
+                        "timestamp": "1616945283.159306930",
+                        "cwnd": "129",
+                        "rtt": "127.902",
+                        "dev_rtt": "0.184",
+                        "ssthresh": "51",
+                        "rto": "328",
+                        "delivery_rate": "11.5",
+                        "pacing_rate": "14.0"
+                    },
+                    {
+                        "timestamp": "1616945283.373418957",
+                        "cwnd": "131",
+                        "rtt": "131.492",
+                        "dev_rtt": "0.068",
+                        "ssthresh": "51",
+                        "rto": "332",
+                        "delivery_rate": "11.4",
+                        "pacing_rate": "13.8"
+                    },
+                    {
+                        "timestamp": "1616945283.582843298",
+                        "cwnd": "132",
+                        "rtt": "135.035",
+                        "dev_rtt": "0.266",
+                        "ssthresh": "51",
+                        "rto": "336",
+                        "delivery_rate": "11.2",
+                        "pacing_rate": "13.6"
+                    },
+                    {
+                        "timestamp": "1616945283.790792384",
+                        "cwnd": "134",
+                        "rtt": "135.564",
+                        "dev_rtt": "0.653",
+                        "ssthresh": "51",
+                        "rto": "336",
+                        "delivery_rate": "11.3",
+                        "pacing_rate": "13.7"
+                    },
+                    {
+                        "timestamp": "1616945283.997989189",
+                        "cwnd": "135",
+                        "rtt": "138.773",
+                        "dev_rtt": "0.068",
+                        "ssthresh": "51",
+                        "rto": "340",
+                        "delivery_rate": "11.1",
+                        "pacing_rate": "13.5"
+                    },
+                    {
+                        "timestamp": "1616945284.207081666",
+                        "cwnd": "137",
+                        "rtt": "142.373",
+                        "dev_rtt": "0.027",
+                        "ssthresh": "51",
+                        "rto": "344",
+                        "delivery_rate": "11.0",
+                        "pacing_rate": "13.4"
+                    },
+                    {
+                        "timestamp": "1616945284.415890643",
+                        "cwnd": "138",
+                        "rtt": "145.403",
+                        "dev_rtt": "0.823",
+                        "ssthresh": "51",
+                        "rto": "348",
+                        "delivery_rate": "10.9",
+                        "pacing_rate": "13.2"
+                    },
+                    {
+                        "timestamp": "1616945284.628529210",
+                        "cwnd": "140",
+                        "rtt": "146.822",
+                        "dev_rtt": "0.362",
+                        "ssthresh": "51",
+                        "rto": "348",
+                        "delivery_rate": "10.9",
+                        "pacing_rate": "13.3"
+                    },
+                    {
+                        "timestamp": "1616945284.836531548",
+                        "cwnd": "141",
+                        "rtt": "152.99",
+                        "dev_rtt": "6.694",
+                        "ssthresh": "51",
+                        "rto": "356",
+                        "delivery_rate": "10.8",
+                        "pacing_rate": "12.8"
+                    },
+                    {
+                        "timestamp": "1616945285.047599021",
+                        "cwnd": "142",
+                        "rtt": "152.156",
+                        "dev_rtt": "0.693",
+                        "ssthresh": "51",
+                        "rto": "356",
+                        "delivery_rate": "10.7",
+                        "pacing_rate": "13.0"
+                    },
+                    {
+                        "timestamp": "1616945285.260613727",
+                        "cwnd": "144",
+                        "rtt": "152.702",
+                        "dev_rtt": "0.9",
+                        "ssthresh": "51",
+                        "rto": "356",
+                        "delivery_rate": "10.7",
+                        "pacing_rate": "13.1"
+                    },
+                    {
+                        "timestamp": "1616945285.469835080",
+                        "cwnd": "145",
+                        "rtt": "128.502",
+                        "dev_rtt": "0.579",
+                        "ssthresh": "51",
+                        "rto": "332",
+                        "delivery_rate": "11.4",
+                        "pacing_rate": "15.7"
+                    },
+                    {
+                        "timestamp": "1616945285.679533588",
+                        "cwnd": "147",
+                        "rtt": "122.945",
+                        "dev_rtt": "0.204",
+                        "ssthresh": "51",
+                        "rto": "324",
+                        "delivery_rate": "13.7",
+                        "pacing_rate": "16.6"
+                    },
+                    {
+                        "timestamp": "1616945285.892099659",
+                        "cwnd": "148",
+                        "rtt": "125.695",
+                        "dev_rtt": "0.335",
+                        "ssthresh": "51",
+                        "rto": "328",
+                        "delivery_rate": "13.6",
+                        "pacing_rate": "16.4"
+                    },
+                    {
+                        "timestamp": "1616945286.099741970",
+                        "cwnd": "150",
+                        "rtt": "128.404",
+                        "dev_rtt": "0.288",
+                        "ssthresh": "51",
+                        "rto": "332",
+                        "delivery_rate": "13.4",
+                        "pacing_rate": "16.2"
+                    },
+                    {
+                        "timestamp": "1616945286.308742902",
+                        "cwnd": "152",
+                        "rtt": "131.055",
+                        "dev_rtt": "0.607",
+                        "ssthresh": "51",
+                        "rto": "332",
+                        "delivery_rate": "13.3",
+                        "pacing_rate": "16.1"
+                    },
+                    {
+                        "timestamp": "1616945286.522876305",
+                        "cwnd": "153",
+                        "rtt": "134.73",
+                        "dev_rtt": "0.256",
+                        "ssthresh": "51",
+                        "rto": "336",
+                        "delivery_rate": "13.0",
+                        "pacing_rate": "15.8"
+                    },
+                    {
+                        "timestamp": "1616945286.732662782",
+                        "cwnd": "155",
+                        "rtt": "137.33",
+                        "dev_rtt": "1.2",
+                        "ssthresh": "51",
+                        "rto": "340",
+                        "delivery_rate": "12.9",
+                        "pacing_rate": "15.7"
+                    },
+                    {
+                        "timestamp": "1616945286.951248172",
+                        "cwnd": "156",
+                        "rtt": "138.751",
+                        "dev_rtt": "0.892",
+                        "ssthresh": "51",
+                        "rto": "340",
+                        "delivery_rate": "12.9",
+                        "pacing_rate": "15.6"
+                    },
+                    {
+                        "timestamp": "1616945287.160827972",
+                        "cwnd": "158",
+                        "rtt": "129.206",
+                        "dev_rtt": "0.334",
+                        "ssthresh": "51",
+                        "rto": "332",
+                        "delivery_rate": "13.4",
+                        "pacing_rate": "17.0"
+                    },
+                    {
+                        "timestamp": "1616945287.366846824",
+                        "cwnd": "159",
+                        "rtt": "131.445",
+                        "dev_rtt": "0.642",
+                        "ssthresh": "51",
+                        "rto": "332",
+                        "delivery_rate": "13.9",
+                        "pacing_rate": "16.8"
+                    },
+                    {
+                        "timestamp": "1616945287.575380865",
+                        "cwnd": "161",
+                        "rtt": "133.808",
+                        "dev_rtt": "0.204",
+                        "ssthresh": "51",
+                        "rto": "336",
+                        "delivery_rate": "13.8",
+                        "pacing_rate": "16.7"
+                    },
+                    {
+                        "timestamp": "1616945287.783404156",
+                        "cwnd": "162",
+                        "rtt": "137.091",
+                        "dev_rtt": "0.925",
+                        "ssthresh": "51",
+                        "rto": "340",
+                        "delivery_rate": "13.5",
+                        "pacing_rate": "16.4"
+                    },
+                    {
+                        "timestamp": "1616945287.993774729",
+                        "cwnd": "164",
+                        "rtt": "140.664",
+                        "dev_rtt": "0.499",
+                        "ssthresh": "51",
+                        "rto": "344",
+                        "delivery_rate": "13.4",
+                        "pacing_rate": "16.2"
+                    },
+                    {
+                        "timestamp": "1616945288.206323182",
+                        "cwnd": "165",
+                        "rtt": "141.496",
+                        "dev_rtt": "0.305",
+                        "ssthresh": "51",
+                        "rto": "344",
+                        "delivery_rate": "13.4",
+                        "pacing_rate": "16.2"
+                    },
+                    {
+                        "timestamp": "1616945288.426781049",
+                        "cwnd": "167",
+                        "rtt": "144.134",
+                        "dev_rtt": "0.19",
+                        "ssthresh": "51",
+                        "rto": "348",
+                        "delivery_rate": "13.3",
+                        "pacing_rate": "16.1"
+                    },
+                    {
+                        "timestamp": "1616945288.644188087",
+                        "cwnd": "169",
+                        "rtt": "133.675",
+                        "dev_rtt": "0.747",
+                        "ssthresh": "51",
+                        "rto": "336",
+                        "delivery_rate": "13.8",
+                        "pacing_rate": "17.6"
+                    },
+                    {
+                        "timestamp": "1616945288.852450432",
+                        "cwnd": "170",
+                        "rtt": "134.957",
+                        "dev_rtt": "0.363",
+                        "ssthresh": "51",
+                        "rto": "336",
+                        "delivery_rate": "14.4",
+                        "pacing_rate": "17.5"
+                    },
+                    {
+                        "timestamp": "1616945289.085940273",
+                        "cwnd": "172",
+                        "rtt": "137.169",
+                        "dev_rtt": "0.203",
+                        "ssthresh": "51",
+                        "rto": "340",
+                        "delivery_rate": "14.4",
+                        "pacing_rate": "17.4"
+                    },
+                    {
+                        "timestamp": "1616945289.304999438",
+                        "cwnd": "173",
+                        "rtt": "132.895",
+                        "dev_rtt": "0.236",
+                        "ssthresh": "51",
+                        "rto": "336",
+                        "delivery_rate": "15.0",
+                        "pacing_rate": "18.1"
+                    },
+                    {
+                        "timestamp": "1616945289.512170845",
+                        "cwnd": "124",
+                        "rtt": "134.977",
+                        "dev_rtt": "0.068",
+                        "ssthresh": "87",
+                        "rto": "336",
+                        "delivery_rate": "14.8",
+                        "pacing_rate": "22.8"
+                    },
+                    {
+                        "timestamp": "1616945289.717325026",
+                        "cwnd": "88",
+                        "rtt": "121.292",
+                        "dev_rtt": "0.789",
+                        "ssthresh": "87",
+                        "rto": "324",
+                        "delivery_rate": "8.2",
+                        "pacing_rate": "10.1"
+                    },
+                    {
+                        "timestamp": "1616945289.924453723",
+                        "cwnd": "89",
+                        "rtt": "120.327",
+                        "dev_rtt": "0.148",
+                        "ssthresh": "87",
+                        "rto": "324",
+                        "delivery_rate": "8.4",
+                        "pacing_rate": "10.3"
+                    },
+                    {
+                        "timestamp": "1616945290.129995724",
+                        "cwnd": "91",
+                        "rtt": "120.379",
+                        "dev_rtt": "0.167",
+                        "ssthresh": "87",
+                        "rto": "324",
+                        "delivery_rate": "8.7",
+                        "pacing_rate": "10.5"
+                    },
+                    {
+                        "timestamp": "1616945290.342886799",
+                        "cwnd": "93",
+                        "rtt": "121.132",
+                        "dev_rtt": "0.513",
+                        "ssthresh": "87",
+                        "rto": "324",
+                        "delivery_rate": "8.9",
+                        "pacing_rate": "10.7"
+                    }
+                ]
+            }
+        }
+    ]
+}
